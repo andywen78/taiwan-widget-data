@@ -1,0 +1,97 @@
+{
+  "generated_at": "2026-04-15T20:00:00+08:00",
+  "source": "taiwan-stock",
+  "holdings": [
+    {
+      "code": "2481",
+      "name": "強茂",
+      "avg_cost": 101.75,
+      "lots": 2,
+      "last_close": 100.0,
+      "add_on": 98.0,
+      "stop_loss": null,
+      "tp_short": 109.0,
+      "tp_mid": 115.0,
+      "verdict": "持有觀望",
+      "reason": "短線整理，等量能回溫"
+    },
+    {
+      "code": "8261",
+      "name": "富鼎先進",
+      "avg_cost": 112.0,
+      "lots": 2,
+      "last_close": 109.0,
+      "add_on": 106.0,
+      "stop_loss": null,
+      "tp_short": 116.0,
+      "tp_mid": 125.0,
+      "verdict": "持有",
+      "reason": "估值合理+高殖利率，耐心持有"
+    },
+    {
+      "code": "1305",
+      "name": "華夏",
+      "avg_cost": 17.6,
+      "lots": 10,
+      "last_close": 17.0,
+      "add_on": null,
+      "stop_loss": 16.8,
+      "tp_short": 20.0,
+      "tp_mid": null,
+      "verdict": "減碼觀望",
+      "reason": "虧損股量縮，見好就收"
+    },
+    {
+      "code": "2243",
+      "name": "宏旭-KY",
+      "avg_cost": 23.1,
+      "lots": 3,
+      "last_close": 23.05,
+      "add_on": 22.0,
+      "stop_loss": null,
+      "tp_short": 24.6,
+      "tp_mid": 28.0,
+      "verdict": "持有",
+      "reason": "營收爆發估值便宜，但短線漲多整理"
+    },
+    {
+      "code": "2501",
+      "name": "國建",
+      "avg_cost": 24.5,
+      "lots": 4,
+      "last_close": 24.95,
+      "add_on": 24.0,
+      "stop_loss": null,
+      "tp_short": 26.5,
+      "tp_mid": 28.0,
+      "verdict": "加碼",
+      "reason": "三優股外資連買，突破壓力續攻"
+    },
+    {
+      "code": "3702",
+      "name": "大聯大",
+      "avg_cost": 99.4,
+      "lots": 2,
+      "last_close": 97.5,
+      "add_on": 94.0,
+      "stop_loss": null,
+      "tp_short": 101.0,
+      "tp_mid": 110.0,
+      "verdict": "持有觀望",
+      "reason": "外資買但投信倒，短線整理"
+    },
+    {
+      "code": "4961",
+      "name": "天鈺",
+      "avg_cost": 154.5,
+      "lots": 1,
+      "last_close": 151.0,
+      "add_on": 147.0,
+      "stop_loss": null,
+      "tp_short": 157.0,
+      "tp_mid": 165.0,
+      "verdict": "持有",
+      "reason": "超高殖利率+庫藏股護盤，等均線撐住"
+    }
+  ]
+}
