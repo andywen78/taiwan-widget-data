@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-04-15T20:30:00+08:00",
+  "source": "taiwan-bullish-filter",
+  "stocks": [
+    {
+      "code": "8240",
+      "name": "華宏",
+      "last_close": 62.5,
+      "add_range": [56.0, 58.0],
+      "tp_short": 65.0,
+      "tp_mid": 68.5,
+      "verdict": "觀望",
+      "reason": "營收衰退+法人賣超",
+      "stars": {"tech": 3, "chip": 1, "fundamental": 2}
+    },
+    {
+      "code": "6147",
+      "name": "頎邦",
+      "last_close": 106.0,
+      "add_range": [83.0, 90.0],
+      "tp_short": 115.0,
+      "tp_mid": 120.0,
+      "verdict": "持有",
+      "reason": "法人力挺但嚴重過熱，勿追高",
+      "stars": {"tech": 3, "chip": 4, "fundamental": 3}
+    }
+  ]
+}
