@@ -170,14 +170,15 @@
     {
       "code": "6683",
       "name": "雍智科技",
-      "last_close": 1910.0,
-      "add_range": [1400.0, 1500.0],
-      "tp_short": 2000.0,
-      "tp_mid": 2200.0,
-      "verdict": "持有",
-      "reason": "基本面頂級但極度過熱，嚴控部位（carryover）",
-      "stars": {"tech": 2, "chip": 3, "fundamental": 5},
-      "analysis_date": "2026-04-15"
+      "last_close": 1870.0,
+      "add_range": [1500.0, 1600.0],
+      "tp_short": 2100.0,
+      "tp_mid": 2400.0,
+      "verdict": "觀望",
+      "reason": "距MA60+90%極度過熱+連2黑長上影+CB 15億稀釋利空，基本面AI ASIC仍強待回檔",
+      "stars": {"tech": 3, "chip": 2, "fundamental": 5},
+      "analysis_date": "2026-04-15",
+      "refreshed_at": "2026-04-17"
     }
   ]
 }
