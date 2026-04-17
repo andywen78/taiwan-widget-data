@@ -166,6 +166,18 @@
       "verdict": "減碼",
       "reason": "距MA60+105%極度過熱+虧損+純題材",
       "stars": {"tech": 2, "chip": 2, "fundamental": 1}
+    },
+    {
+      "code": "6683",
+      "name": "雍智科技",
+      "last_close": 1910.0,
+      "add_range": [1400.0, 1500.0],
+      "tp_short": 2000.0,
+      "tp_mid": 2200.0,
+      "verdict": "持有",
+      "reason": "基本面頂級但極度過熱，嚴控部位（carryover）",
+      "stars": {"tech": 2, "chip": 3, "fundamental": 5},
+      "analysis_date": "2026-04-15"
     }
   ]
 }
