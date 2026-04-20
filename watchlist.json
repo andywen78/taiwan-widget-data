@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T21:09:07+08:00",
+  "generated_at": "2026-04-20T21:27:51+08:00",
   "source": "taiwan-bullish-filter",
   "stocks": [
     {
@@ -79,8 +79,8 @@
       "name": "正文",
       "last_close": 38.5,
       "add_range": [
-        0,
-        0
+        36.57,
+        37.73
       ],
       "tp_short": 43.0,
       "tp_mid": 0,
@@ -151,8 +151,8 @@
       "name": "泰谷",
       "last_close": 66.3,
       "add_range": [
-        0,
-        0
+        62.98,
+        64.97
       ],
       "tp_short": 69.3,
       "tp_mid": 0,
@@ -205,8 +205,8 @@
       "name": "鈦昇",
       "last_close": 149.5,
       "add_range": [
-        0,
-        0
+        142.03,
+        146.51
       ],
       "tp_short": 156.0,
       "tp_mid": 0,
@@ -241,8 +241,8 @@
       "name": "環宇-KY",
       "last_close": 724.0,
       "add_range": [
-        0,
-        0
+        687.8,
+        709.52
       ],
       "tp_short": 750.0,
       "tp_mid": 0,
@@ -282,32 +282,12 @@
       ],
       "tp_short": 24.0,
       "tp_mid": 26.0,
-      "verdict": "持有",
-      "reason": "乖離健康+法人連5日買但動能減弱，營收+180%/PE16.8",
+      "verdict": "加碼",
+      "reason": "營收+180%/EPS+408%/估值低+法人買（2026-04-17 最後深度分析）",
       "stars": {
         "tech": 3,
         "chip": 3,
         "fundamental": 5
-      },
-      "analysis_date": "2026-04-17",
-      "refreshed_at": "2026-04-20"
-    },
-    {
-      "code": "3702",
-      "name": "大聯大",
-      "last_close": 100.5,
-      "add_range": [
-        93.0,
-        95.0
-      ],
-      "tp_short": 106.0,
-      "tp_mid": 112.0,
-      "verdict": "觀望",
-      "reason": "外資+26973張但投信賣26479張內外資分歧，合計-304轉賣",
-      "stars": {
-        "tech": 3,
-        "chip": 2,
-        "fundamental": 4
       },
       "analysis_date": "2026-04-17",
       "refreshed_at": "2026-04-20"
@@ -323,13 +303,53 @@
       "tp_short": 40.0,
       "tp_mid": 42.0,
       "verdict": "持有",
-      "reason": "籌碼轉強外資+1411(今日)+1098(5日)，本業虧損題材股",
+      "reason": "籌碼+941張但本業虧損題材股（2026-04-17 最後深度分析）",
       "stars": {
-        "tech": 3,
+        "tech": 2,
         "chip": 3,
         "fundamental": 1
       },
       "analysis_date": "2026-04-17",
+      "refreshed_at": "2026-04-20"
+    },
+    {
+      "code": "3702",
+      "name": "大聯大",
+      "last_close": 100.5,
+      "add_range": [
+        93.0,
+        95.0
+      ],
+      "tp_short": 106.0,
+      "tp_mid": 112.0,
+      "verdict": "加碼",
+      "reason": "外資+28002張+AI通路龍頭+PE16（2026-04-17 最後深度分析）",
+      "stars": {
+        "tech": 3,
+        "chip": 4,
+        "fundamental": 4
+      },
+      "analysis_date": "2026-04-17",
+      "refreshed_at": "2026-04-20"
+    },
+    {
+      "code": "6683",
+      "name": "雍智科技",
+      "last_close": 1910.0,
+      "add_range": [
+        1400.0,
+        1500.0
+      ],
+      "tp_short": 2000.0,
+      "tp_mid": 2200.0,
+      "verdict": "持有",
+      "reason": "基本面頂級但極度過熱，嚴禁追高（2026-04-15 最後深度分析）",
+      "stars": {
+        "tech": 2,
+        "chip": 3,
+        "fundamental": 5
+      },
+      "analysis_date": "2026-04-15",
       "refreshed_at": "2026-04-20"
     }
   ]
