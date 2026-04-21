@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T20:34:50+08:00",
+  "generated_at": "2026-04-21T20:39:39+08:00",
   "source": "taiwan-bullish-filter",
   "stocks": [
     {
@@ -271,6 +271,116 @@
         "chip": 3,
         "fundamental": 1
       }
+    },
+    {
+      "code": "2243",
+      "name": "宏旭-KY",
+      "last_close": 22.15,
+      "add_range": [
+        21.0,
+        21.5
+      ],
+      "tp_short": 24.0,
+      "tp_mid": 26.0,
+      "verdict": "加碼",
+      "reason": "營收+180%/EPS+408%/估值低+法人買（2026-04-17 最後深度分析）",
+      "stars": {
+        "tech": 3,
+        "chip": 3,
+        "fundamental": 5
+      },
+      "analysis_date": "2026-04-17",
+      "refreshed_at": "2026-04-21",
+      "refresh_failed": true,
+      "refresh_error": "rule-based verdict degraded — preserving original for tracking"
+    },
+    {
+      "code": "2399",
+      "name": "映泰",
+      "last_close": 38.15,
+      "add_range": [
+        34.0,
+        35.0
+      ],
+      "tp_short": 40.0,
+      "tp_mid": 42.0,
+      "verdict": "持有",
+      "reason": "籌碼+941張但本業虧損題材股（2026-04-17 最後深度分析）",
+      "stars": {
+        "tech": 2,
+        "chip": 3,
+        "fundamental": 1
+      },
+      "analysis_date": "2026-04-17",
+      "refreshed_at": "2026-04-21",
+      "refresh_failed": true,
+      "refresh_error": "rule-based verdict degraded — preserving original for tracking"
+    },
+    {
+      "code": "3702",
+      "name": "大聯大",
+      "last_close": 100.5,
+      "add_range": [
+        93.0,
+        95.0
+      ],
+      "tp_short": 106.0,
+      "tp_mid": 112.0,
+      "verdict": "加碼",
+      "reason": "外資+28002張+AI通路龍頭+PE16（2026-04-17 最後深度分析）",
+      "stars": {
+        "tech": 3,
+        "chip": 4,
+        "fundamental": 4
+      },
+      "analysis_date": "2026-04-17",
+      "refreshed_at": "2026-04-21",
+      "refresh_failed": true,
+      "refresh_error": "rule-based verdict degraded — preserving original for tracking"
+    },
+    {
+      "code": "6683",
+      "name": "雍智科技",
+      "last_close": 1910.0,
+      "add_range": [
+        1400.0,
+        1500.0
+      ],
+      "tp_short": 2000.0,
+      "tp_mid": 2200.0,
+      "verdict": "持有",
+      "reason": "基本面頂級但極度過熱，嚴禁追高（2026-04-15 最後深度分析）",
+      "stars": {
+        "tech": 2,
+        "chip": 3,
+        "fundamental": 5
+      },
+      "analysis_date": "2026-04-15",
+      "refreshed_at": "2026-04-21",
+      "refresh_failed": true,
+      "refresh_error": "rule-based verdict degraded — preserving original for tracking"
+    },
+    {
+      "code": "6147",
+      "name": "頎邦",
+      "last_close": 114.0,
+      "add_range": [
+        95.0,
+        100.0
+      ],
+      "tp_short": 120.0,
+      "tp_mid": 130.0,
+      "verdict": "持有",
+      "reason": "法人最強買超但嚴重過熱",
+      "stars": {
+        "tech": 4,
+        "chip": 5,
+        "fundamental": 3
+      },
+      "analysis_date": "2026-04-16",
+      "refreshed_at": "2026-04-21",
+      "refresh_failed": true,
+      "refresh_error": "rule-based verdict degraded — preserving original for tracking"
     }
   ]
 }
