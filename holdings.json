@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T20:03:41+08:00",
+  "generated_at": "2026-04-21T20:03:14+08:00",
   "source": "taiwan-stock",
   "holdings": [
     {
@@ -7,52 +7,52 @@
       "name": "聯嘉投控",
       "avg_cost": 21.95,
       "lots": 5,
-      "last_close": 22.45,
+      "last_close": 22.3,
       "add_on": 22.0,
-      "stop_loss": 21.0,
+      "stop_loss": null,
       "tp_short": 24.2,
-      "tp_mid": 26.5,
+      "tp_mid": 26.0,
       "verdict": "持有觀望",
-      "reason": "量縮盤整等表態，外資買盤為靠山"
+      "reason": "量能萎縮未跟上，需突破24.2放量再追"
     },
     {
       "code": "6438",
       "name": "迅得",
       "avg_cost": 177.5,
       "lots": 2,
-      "last_close": 185.0,
+      "last_close": 183.5,
       "add_on": 180.0,
-      "stop_loss": 175.0,
+      "stop_loss": null,
       "tp_short": 193.0,
       "tp_mid": 210.0,
-      "verdict": "持有",
-      "reason": "長上影爆量警訊，建議部分停利鎖獲利"
+      "verdict": "持有加碼",
+      "reason": "題材強+法人連買，拉回不破180可續抱"
     },
     {
       "code": "4961",
       "name": "天鈺",
       "avg_cost": 153.0,
       "lots": 2,
-      "last_close": 155.5,
-      "add_on": 153.0,
-      "stop_loss": 149.0,
-      "tp_short": 157.0,
-      "tp_mid": 168.0,
-      "verdict": "持有",
-      "reason": "法人逢高調節但庫藏股+殖利率撐住，中期題材仍在"
+      "last_close": 154.0,
+      "add_on": 150.0,
+      "stop_loss": null,
+      "tp_short": 157.5,
+      "tp_mid": 165.0,
+      "verdict": "持有觀望",
+      "reason": "法人連5日賣超，壓力157.5未破先減風險"
     },
     {
       "code": "2243",
       "name": "宏旭-KY",
       "avg_cost": 23.48,
       "lots": 3,
-      "last_close": 22.15,
-      "add_on": 21.8,
-      "stop_loss": 21.0,
+      "last_close": 23.2,
+      "add_on": 23.0,
+      "stop_loss": null,
       "tp_short": 24.6,
       "tp_mid": 27.0,
-      "verdict": "持有觀望",
-      "reason": "長黑K+外資由買轉賣警訊，先不加碼、守MA20"
+      "verdict": "加碼",
+      "reason": "營收爆發+投信進駐，距MA60+46%留意回檔"
     },
     {
       "code": "2501",
@@ -60,25 +60,25 @@
       "avg_cost": 24.15,
       "lots": 4,
       "last_close": 24.8,
-      "add_on": 24.0,
-      "stop_loss": 23.67,
-      "tp_short": 26.5,
-      "tp_mid": 28.5,
+      "add_on": 24.3,
+      "stop_loss": null,
+      "tp_short": 25.05,
+      "tp_mid": 28.0,
       "verdict": "加碼",
-      "reason": "法人連買、基本面+估值雙優，持股中表現最穩"
+      "reason": "法人強買+營收暴衝+PB<1低估值，持股中最強"
     },
     {
       "code": "3702",
       "name": "大聯大",
       "avg_cost": 97.95,
       "lots": 2,
-      "last_close": 100.5,
-      "add_on": 98.0,
-      "stop_loss": 93.2,
+      "last_close": 102.5,
+      "add_on": 100.0,
+      "stop_loss": null,
       "tp_short": 103.0,
-      "tp_mid": 110.0,
+      "tp_mid": 115.0,
       "verdict": "持有",
-      "reason": "法人對做格局未解，盤整機率高，中期AI+記憶體題材續"
+      "reason": "外資大買但投信大賣矛盾，留意103壓力突破"
     }
   ]
 }
