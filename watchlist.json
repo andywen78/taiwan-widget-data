@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-21T20:39:39+08:00",
+  "generated_at": "2026-04-22T20:42:59+08:00",
   "source": "taiwan-bullish-filter",
   "stocks": [
     {
       "code": "6672",
       "name": "騰輝電子-KY",
-      "last_close": 187.5,
+      "last_close": 206.0,
       "add_range": [
-        155.0,
-        165.0
+        175.0,
+        185.0
       ],
-      "tp_short": 200.0,
-      "tp_mid": 220.0,
+      "tp_short": 225.0,
+      "tp_mid": 245.0,
       "verdict": "持有",
-      "reason": "題材強但過熱+連2日長上下影",
+      "reason": "AI CCL+軍工題材漲停爆發，但法人賣+距MA60+78%過熱",
       "stars": {
-        "tech": 3,
+        "tech": 4,
         "chip": 2,
         "fundamental": 4
       }
@@ -23,33 +23,33 @@
     {
       "code": "6168",
       "name": "宏齊",
-      "last_close": 28.05,
+      "last_close": 27.75,
       "add_range": [
-        26.6,
-        27.4
+        26.3,
+        27.0
       ],
       "tp_short": 30.0,
-      "tp_mid": 32.0,
+      "tp_mid": 32.5,
       "verdict": "觀望",
-      "reason": "EPS薄+外資連賣+今日黑K跌破MA5",
+      "reason": "EPS 0.05獲利極薄+連2日黑K+法人小賣",
       "stars": {
         "tech": 2,
-        "chip": 1,
+        "chip": 2,
         "fundamental": 1
       }
     },
     {
       "code": "3031",
       "name": "佰鴻",
-      "last_close": 31.85,
+      "last_close": 31.95,
       "add_range": [
-        27.0,
-        28.5
+        28.0,
+        30.0
       ],
       "tp_short": 34.0,
       "tp_mid": 37.0,
       "verdict": "觀望",
-      "reason": "外資連賣1977張拉高出貨樣",
+      "reason": "外資連賣-1430拉高出貨樣",
       "stars": {
         "tech": 3,
         "chip": 1,
@@ -59,33 +59,33 @@
     {
       "code": "2351",
       "name": "順德",
-      "last_close": 151.0,
+      "last_close": 166.0,
       "add_range": [
-        122.0,
-        128.0
+        132.0,
+        142.0
       ],
-      "tp_short": 165.0,
-      "tp_mid": 180.0,
+      "tp_short": 180.0,
+      "tp_mid": 200.0,
       "verdict": "持有",
-      "reason": "AI散熱+導線架題材佳但法人賣",
+      "reason": "AI散熱墊題材漲停，但外資連賣4926張=拉高出貨警示",
       "stars": {
-        "tech": 3,
-        "chip": 2,
+        "tech": 4,
+        "chip": 1,
         "fundamental": 4
       }
     },
     {
       "code": "4906",
       "name": "正文",
-      "last_close": 40.35,
+      "last_close": 38.6,
       "add_range": [
-        38.33,
-        39.54
+        37.0,
+        37.8
       ],
-      "tp_short": 43.0,
-      "tp_mid": 46.0,
+      "tp_short": 43.2,
+      "tp_mid": 45.0,
       "verdict": "減碼",
-      "reason": "虧損+營收-40%+法人賣1.07萬張",
+      "reason": "虧損+營收-40%+法人5日合計賣1.22萬張",
       "stars": {
         "tech": 2,
         "chip": 1,
@@ -95,17 +95,17 @@
     {
       "code": "6532",
       "name": "瑞耘",
-      "last_close": 93.2,
+      "last_close": 102.5,
       "add_range": [
-        80.0,
-        84.0
+        85.0,
+        92.0
       ],
-      "tp_short": 100.0,
-      "tp_mid": 110.0,
+      "tp_short": 110.0,
+      "tp_mid": 120.0,
       "verdict": "加碼",
-      "reason": "EPS7.31+PE15.8低估+外資買+今日漲停",
+      "reason": "EPS 7.31+PE 15.8最便宜+外資+974連買+連3紅K多頭",
       "stars": {
-        "tech": 3,
+        "tech": 4,
         "chip": 3,
         "fundamental": 5
       }
@@ -113,15 +113,15 @@
     {
       "code": "3587",
       "name": "閎康",
-      "last_close": 369.0,
+      "last_close": 356.5,
       "add_range": [
-        310.0,
-        330.0
+        320.0,
+        350.0
       ],
       "tp_short": 400.0,
       "tp_mid": 450.0,
       "verdict": "持有",
-      "reason": "半導體檢測龍頭+AI驗證但過熱",
+      "reason": "半導體檢測龍頭題材強，短線大黑K轉弱須防拉回",
       "stars": {
         "tech": 3,
         "chip": 2,
@@ -131,69 +131,51 @@
     {
       "code": "6438",
       "name": "迅得",
-      "last_close": 183.5,
+      "last_close": 182.0,
       "add_range": [
         175.0,
-        178.0
+        180.0
       ],
       "tp_short": 195.0,
-      "tp_mid": 215.0,
+      "tp_mid": 210.0,
       "verdict": "加碼",
-      "reason": "乖離最健康+法人連買+EPS成長",
+      "reason": "乖離最健康(+3.1%)+法人連買+1153+EPS成長",
       "stars": {
         "tech": 4,
-        "chip": 3,
+        "chip": 4,
         "fundamental": 4
       }
     },
     {
       "code": "3339",
       "name": "泰谷",
-      "last_close": 71.4,
+      "last_close": 69.1,
       "add_range": [
-        67.83,
-        69.97
+        52.0,
+        58.0
       ],
       "tp_short": 73.0,
-      "tp_mid": 78.0,
+      "tp_mid": 80.0,
       "verdict": "觀望",
-      "reason": "虧損+距MA60+102%極度過熱",
+      "reason": "虧損+距MA60+92%破表過熱；題材強但風險極高",
       "stars": {
         "tech": 2,
-        "chip": 2,
-        "fundamental": 1
-      }
-    },
-    {
-      "code": "3717",
-      "name": "聯嘉投控",
-      "last_close": 22.3,
-      "add_range": [
-        21.8,
-        22.2
-      ],
-      "tp_short": 24.5,
-      "tp_mid": 26.5,
-      "verdict": "加碼",
-      "reason": "外資連買+乖離最健康+AI智慧宅爆發",
-      "stars": {
-        "tech": 3,
         "chip": 3,
-        "fundamental": 3
+        "fundamental": 1
       }
     },
     {
       "code": "3026",
       "name": "禾伸堂",
-      "last_close": 255.0,
+      "last_close": 248.0,
       "add_range": [
         200.0,
-        215.0
+        220.0
       ],
       "tp_short": 270.0,
       "tp_mid": 290.0,
       "verdict": "觀望",
-      "reason": "基本面最強但外資連賣+過熱=拉高出貨",
+      "reason": "基本面最強但外資連賣-2095+長上影=拉高出貨樣",
       "stars": {
         "tech": 3,
         "chip": 1,
@@ -205,13 +187,13 @@
       "name": "鈦昇",
       "last_close": 149.5,
       "add_range": [
-        142.03,
-        146.51
+        140.0,
+        144.0
       ],
       "tp_short": 158.0,
-      "tp_mid": 170.0,
+      "tp_mid": 175.0,
       "verdict": "減碼",
-      "reason": "外資狂賣3814張+虧損+長下影",
+      "reason": "外資狂賣3780張+連3日黑K+虧損=出貨明顯",
       "stars": {
         "tech": 2,
         "chip": 1,
@@ -221,15 +203,15 @@
     {
       "code": "8091",
       "name": "翔名",
-      "last_close": 188.5,
+      "last_close": 184.5,
       "add_range": [
-        172.0,
+        170.0,
         178.0
       ],
-      "tp_short": 200.0,
+      "tp_short": 199.5,
       "tp_mid": 215.0,
-      "verdict": "觀望",
-      "reason": "昨日長上影警示+籌碼小賣",
+      "verdict": "持有",
+      "reason": "殖利率6.81%半導體耗材題材穩，連3日轉弱+法人小賣",
       "stars": {
         "tech": 3,
         "chip": 2,
@@ -239,33 +221,33 @@
     {
       "code": "6588",
       "name": "東典光電",
-      "last_close": 153.5,
+      "last_close": 149.0,
       "add_range": [
-        135.0,
-        142.0
+        134.0,
+        140.0
       ],
-      "tp_short": 166.0,
+      "tp_short": 166.5,
       "tp_mid": 180.0,
       "verdict": "觀望",
-      "reason": "連3日上影壓力重+虧損+法人賣",
+      "reason": "連3日黑K+上影=壓力重+虧損+乖離過熱",
       "stars": {
         "tech": 2,
-        "chip": 1,
+        "chip": 2,
         "fundamental": 2
       }
     },
     {
       "code": "6217",
       "name": "中探針",
-      "last_close": 283.0,
+      "last_close": 296.5,
       "add_range": [
-        268.85,
-        277.34
+        245.0,
+        270.0
       ],
-      "tp_short": 295.0,
-      "tp_mid": 315.0,
+      "tp_short": 311.0,
+      "tp_mid": 330.0,
       "verdict": "觀望",
-      "reason": "籌碼強但距MA60+122%破表+虧損",
+      "reason": "法人+1473強但虧損+距MA60+126%破表過熱",
       "stars": {
         "tech": 2,
         "chip": 3,
@@ -273,114 +255,148 @@
       }
     },
     {
-      "code": "2243",
-      "name": "宏旭-KY",
-      "last_close": 22.15,
+      "code": "3221",
+      "name": "台嘉碩",
+      "last_close": 50.4,
       "add_range": [
-        21.0,
-        21.5
+        40.0,
+        44.0
       ],
-      "tp_short": 24.0,
-      "tp_mid": 26.0,
-      "verdict": "加碼",
-      "reason": "營收+180%/EPS+408%/估值低+法人買（2026-04-17 最後深度分析）",
+      "tp_short": 55.0,
+      "tp_mid": 60.0,
+      "verdict": "持有",
+      "reason": "AI Wi-Fi 7/低軌衛星/國防KK級訂單，EPS薄+大黑K+法人賣",
       "stars": {
         "tech": 3,
-        "chip": 3,
-        "fundamental": 5
+        "chip": 1,
+        "fundamental": 2
+      }
+    },
+    {
+      "code": "3717",
+      "name": "聯嘉投控",
+      "last_close": 22.1,
+      "add_range": [
+        20.45,
+        21.66
+      ],
+      "tp_short": 24.2,
+      "tp_mid": 25.41,
+      "verdict": "持有",
+      "reason": "今日貼MA20(跌破MA20)，未破MA60，降級持有",
+      "stars": {
+        "tech": 2,
+        "chip": 4,
+        "fundamental": 3
+      },
+      "analysis_date": "2026-04-21",
+      "refreshed_at": "2026-04-22",
+      "refresh_failed": false
+    },
+    {
+      "code": "2243",
+      "name": "宏旭-KY",
+      "last_close": 23.65,
+      "add_range": [
+        18.55,
+        21.98
+      ],
+      "tp_short": 24.6,
+      "tp_mid": 27.2,
+      "verdict": "持有",
+      "reason": "AI覆核：距MA60+47%過熱但多頭未破，先持有觀察",
+      "stars": {
+        "tech": 2,
+        "chip": 4,
+        "fundamental": 3
       },
       "analysis_date": "2026-04-17",
-      "refreshed_at": "2026-04-21",
-      "refresh_failed": true,
-      "refresh_error": "rule-based verdict degraded — preserving original for tracking"
+      "refreshed_at": "2026-04-22",
+      "refresh_failed": false
     },
     {
       "code": "2399",
       "name": "映泰",
-      "last_close": 38.15,
+      "last_close": 40.2,
       "add_range": [
-        34.0,
-        35.0
+        28.85,
+        34.27
       ],
-      "tp_short": 40.0,
-      "tp_mid": 42.0,
+      "tp_short": 45.5,
+      "tp_mid": 47.77,
       "verdict": "持有",
-      "reason": "籌碼+941張但本業虧損題材股（2026-04-17 最後深度分析）",
+      "reason": "AI覆核：距MA60+42%過熱但多頭延續，持有",
       "stars": {
         "tech": 2,
-        "chip": 3,
-        "fundamental": 1
+        "chip": 1,
+        "fundamental": 3
       },
       "analysis_date": "2026-04-17",
-      "refreshed_at": "2026-04-21",
-      "refresh_failed": true,
-      "refresh_error": "rule-based verdict degraded — preserving original for tracking"
+      "refreshed_at": "2026-04-22",
+      "refresh_failed": false
     },
     {
       "code": "3702",
       "name": "大聯大",
-      "last_close": 100.5,
+      "last_close": 101.5,
       "add_range": [
-        93.0,
-        95.0
+        86.5,
+        94.3
       ],
-      "tp_short": 106.0,
-      "tp_mid": 112.0,
-      "verdict": "加碼",
-      "reason": "外資+28002張+AI通路龍頭+PE16（2026-04-17 最後深度分析）",
+      "tp_short": 103.5,
+      "tp_mid": 116.72,
+      "verdict": "持有",
+      "reason": "AI覆核：法人5日賣超3486張但價格站穩，持有觀察",
       "stars": {
-        "tech": 3,
-        "chip": 4,
-        "fundamental": 4
+        "tech": 4,
+        "chip": 1,
+        "fundamental": 5
       },
       "analysis_date": "2026-04-17",
-      "refreshed_at": "2026-04-21",
-      "refresh_failed": true,
-      "refresh_error": "rule-based verdict degraded — preserving original for tracking"
+      "refreshed_at": "2026-04-22",
+      "refresh_failed": false
     },
     {
       "code": "6683",
       "name": "雍智科技",
-      "last_close": 1910.0,
+      "last_close": 1890.0,
       "add_range": [
-        1400.0,
-        1500.0
+        1045.0,
+        1600.5
       ],
-      "tp_short": 2000.0,
-      "tp_mid": 2200.0,
+      "tp_short": 2005.0,
+      "tp_mid": 2173.5,
       "verdict": "持有",
-      "reason": "基本面頂級但極度過熱，嚴禁追高（2026-04-15 最後深度分析）",
+      "reason": "AI覆核：距MA60+79%極度過熱，題材強勁先持有不追高",
       "stars": {
         "tech": 2,
-        "chip": 3,
+        "chip": 2,
         "fundamental": 5
       },
       "analysis_date": "2026-04-15",
-      "refreshed_at": "2026-04-21",
-      "refresh_failed": true,
-      "refresh_error": "rule-based verdict degraded — preserving original for tracking"
+      "refreshed_at": "2026-04-22",
+      "refresh_failed": false
     },
     {
       "code": "6147",
       "name": "頎邦",
-      "last_close": 114.0,
+      "last_close": 141.5,
       "add_range": [
-        95.0,
-        100.0
+        63.5,
+        97.78
       ],
-      "tp_short": 120.0,
-      "tp_mid": 130.0,
+      "tp_short": 148.0,
+      "tp_mid": 162.72,
       "verdict": "持有",
-      "reason": "法人最強買超但嚴重過熱",
+      "reason": "AI覆核：距MA60+100%破表過熱，基本面強先持有",
       "stars": {
-        "tech": 4,
+        "tech": 2,
         "chip": 5,
-        "fundamental": 3
+        "fundamental": 4
       },
       "analysis_date": "2026-04-16",
-      "refreshed_at": "2026-04-21",
-      "refresh_failed": true,
-      "refresh_error": "rule-based verdict degraded — preserving original for tracking"
+      "refreshed_at": "2026-04-22",
+      "refresh_failed": false
     }
   ]
 }
