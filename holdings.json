@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T20:04:41+08:00",
+  "generated_at": "2026-04-23T20:03:02+08:00",
   "source": "taiwan-stock",
   "holdings": [
     {
@@ -7,52 +7,52 @@
       "name": "聯嘉投控",
       "avg_cost": 22.04,
       "lots": 10,
-      "last_close": 22.1,
-      "add_on": 21.5,
-      "stop_loss": null,
-      "tp_short": 24.2,
-      "tp_mid": 26.0,
+      "last_close": 21.05,
+      "add_on": 20.9,
+      "stop_loss": 20.5,
+      "tp_short": 23.5,
+      "tp_mid": 24.5,
       "verdict": "持有觀望",
-      "reason": "量縮盤整，等量能回溫再加碼"
+      "reason": "技術轉弱跌破MA20，基本面成長動能強"
     },
     {
       "code": "6438",
       "name": "迅得",
       "avg_cost": 180.17,
       "lots": 3,
-      "last_close": 182.0,
-      "add_on": 178.0,
+      "last_close": 172.0,
+      "add_on": 168.0,
       "stop_loss": null,
-      "tp_short": 193.0,
-      "tp_mid": 210.0,
-      "verdict": "持有加碼",
-      "reason": "多頭+法人淨買+先進封裝題材，回檔就是加碼點"
+      "tp_short": 185.0,
+      "tp_mid": 193.0,
+      "verdict": "持有",
+      "reason": "長多未破，外資逢低承接，不建議現價追"
     },
     {
       "code": "3702",
       "name": "大聯大",
       "avg_cost": 97.95,
       "lots": 2,
-      "last_close": 101.5,
-      "add_on": 98.0,
-      "stop_loss": null,
-      "tp_short": 103.5,
-      "tp_mid": 115.0,
+      "last_close": 96.2,
+      "add_on": 95.0,
+      "stop_loss": 93.0,
+      "tp_short": 103.0,
+      "tp_mid": 108.0,
       "verdict": "持有",
-      "reason": "短線已近壓力+偏離均線過大+投信仍調節，先守不追"
+      "reason": "多頭維持但需觀察投信賣壓"
     },
     {
       "code": "2243",
       "name": "宏旭-KY",
       "avg_cost": 23.48,
       "lots": 3,
-      "last_close": 23.65,
-      "add_on": 22.5,
-      "stop_loss": null,
-      "tp_short": 24.6,
-      "tp_mid": 27.0,
-      "verdict": "持有加碼",
-      "reason": "基本面爆發+籌碼穩+量縮整理，均價附近最佳加碼點"
+      "last_close": 24.0,
+      "add_on": 23.0,
+      "stop_loss": 22.2,
+      "tp_short": 26.0,
+      "tp_mid": 28.0,
+      "verdict": "加碼",
+      "reason": "三面俱佳，逼近壓力線需量能配合"
     }
   ]
 }
