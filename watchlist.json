@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T20:45:31+08:00",
+  "generated_at": "2026-04-27T20:50:27+08:00",
   "source": "taiwan-bullish-filter",
   "stocks": [
     {
@@ -313,6 +313,270 @@
       "analysis_date": "2026-04-24",
       "refreshed_at": "2026-04-27",
       "refresh_failed": false
+    },
+    {
+      "code": "3587",
+      "name": "閎康",
+      "last_close": 313.0,
+      "add_range": [
+        215.0,
+        294.77
+      ],
+      "tp_short": 377.5,
+      "tp_mid": 396.38,
+      "verdict": "持有",
+      "reason": "距MA60+32.17%過熱",
+      "stars": {
+        "tech": 2,
+        "chip": 3,
+        "fundamental": 5
+      },
+      "analysis_date": "2026-04-24",
+      "refreshed_at": "2026-04-27",
+      "refresh_failed": true,
+      "refresh_error": "verdict downgraded on refresh; kept as 持有 (failsafe)"
+    },
+    {
+      "code": "6187",
+      "name": "萬潤",
+      "last_close": 1080.0,
+      "add_range": [
+        810.0,
+        1060.2
+      ],
+      "tp_short": 1490.0,
+      "tp_mid": 1564.5,
+      "verdict": "持有",
+      "reason": "距MA60+51.52%過熱",
+      "stars": {
+        "tech": 2,
+        "chip": 4,
+        "fundamental": 5
+      },
+      "analysis_date": "2026-04-24",
+      "refreshed_at": "2026-04-27",
+      "refresh_failed": true,
+      "refresh_error": "verdict downgraded on refresh; kept as 持有 (failsafe)"
+    },
+    {
+      "code": "6438",
+      "name": "迅得",
+      "last_close": 171.0,
+      "add_range": [
+        163.5,
+        167.58
+      ],
+      "tp_short": 193.0,
+      "tp_mid": 202.65,
+      "verdict": "持有",
+      "reason": "跌破MA20",
+      "stars": {
+        "tech": 3,
+        "chip": 2,
+        "fundamental": 5
+      },
+      "analysis_date": "2026-04-22",
+      "refreshed_at": "2026-04-27",
+      "refresh_failed": true,
+      "refresh_error": "verdict downgraded on refresh; kept as 持有 (failsafe)"
+    },
+    {
+      "code": "3717",
+      "name": "聯嘉投控",
+      "last_close": 19.8,
+      "add_range": [
+        18.82,
+        19.4
+      ],
+      "tp_short": 24.2,
+      "tp_mid": 25.41,
+      "verdict": "持有",
+      "reason": "跌破MA20",
+      "stars": {
+        "tech": 2,
+        "chip": 3,
+        "fundamental": 3
+      },
+      "analysis_date": "2026-04-21",
+      "refreshed_at": "2026-04-27",
+      "refresh_failed": true,
+      "refresh_error": "verdict downgraded on refresh; kept as 持有 (failsafe)"
+    },
+    {
+      "code": "2243",
+      "name": "宏旭-KY",
+      "last_close": 24.95,
+      "add_range": [
+        18.55,
+        22.61
+      ],
+      "tp_short": 26.2,
+      "tp_mid": 28.69,
+      "verdict": "持有",
+      "reason": "距MA60+49.67%過熱",
+      "stars": {
+        "tech": 2,
+        "chip": 4,
+        "fundamental": 3
+      },
+      "analysis_date": "2026-04-17",
+      "refreshed_at": "2026-04-27",
+      "refresh_failed": true,
+      "refresh_error": "verdict downgraded on refresh; kept as 持有 (failsafe)"
+    },
+    {
+      "code": "2399",
+      "name": "映泰",
+      "last_close": 41.35,
+      "add_range": [
+        28.85,
+        35.92
+      ],
+      "tp_short": 45.5,
+      "tp_mid": 47.77,
+      "verdict": "持有",
+      "reason": "距MA60+41.95%過熱",
+      "stars": {
+        "tech": 2,
+        "chip": 1,
+        "fundamental": 3
+      },
+      "analysis_date": "2026-04-17",
+      "refreshed_at": "2026-04-27",
+      "refresh_failed": true,
+      "refresh_error": "verdict downgraded on refresh; kept as 持有 (failsafe)"
+    },
+    {
+      "code": "3702",
+      "name": "大聯大",
+      "last_close": 95.5,
+      "add_range": [
+        86.5,
+        94.65
+      ],
+      "tp_short": 103.5,
+      "tp_mid": 109.82,
+      "verdict": "持有",
+      "reason": "法人5日賣2496張",
+      "stars": {
+        "tech": 4,
+        "chip": 1,
+        "fundamental": 5
+      },
+      "analysis_date": "2026-04-17",
+      "refreshed_at": "2026-04-27",
+      "refresh_failed": true,
+      "refresh_error": "verdict downgraded on refresh; kept as 持有 (failsafe)"
+    },
+    {
+      "code": "6683",
+      "name": "雍智科技",
+      "last_close": 1710.0,
+      "add_range": [
+        1215.0,
+        1690.25
+      ],
+      "tp_short": 2005.0,
+      "tp_mid": 2105.25,
+      "verdict": "持有",
+      "reason": "距MA60+52.21%過熱",
+      "stars": {
+        "tech": 2,
+        "chip": 2,
+        "fundamental": 5
+      },
+      "analysis_date": "2026-04-15",
+      "refreshed_at": "2026-04-27",
+      "refresh_failed": true,
+      "refresh_error": "verdict downgraded on refresh; kept as 持有 (failsafe)"
+    },
+    {
+      "code": "6147",
+      "name": "頎邦",
+      "last_close": 131.0,
+      "add_range": [
+        69.2,
+        107.62
+      ],
+      "tp_short": 151.5,
+      "tp_mid": 159.08,
+      "verdict": "持有",
+      "reason": "距MA60+75.46%過熱",
+      "stars": {
+        "tech": 2,
+        "chip": 5,
+        "fundamental": 4
+      },
+      "analysis_date": "2026-04-16",
+      "refreshed_at": "2026-04-27",
+      "refresh_failed": true,
+      "refresh_error": "verdict downgraded on refresh; kept as 持有 (failsafe)"
+    },
+    {
+      "code": "6168",
+      "name": "宏齊",
+      "last_close": 24.05,
+      "add_range": [
+        22.7,
+        23.57
+      ],
+      "tp_short": 30.8,
+      "tp_mid": 32.34,
+      "verdict": "持有",
+      "reason": "跌破MA20",
+      "stars": {
+        "tech": 2,
+        "chip": 4,
+        "fundamental": 3
+      },
+      "analysis_date": "2026-04-17",
+      "refreshed_at": "2026-04-27",
+      "refresh_failed": true,
+      "refresh_error": "verdict downgraded on refresh; kept as 持有 (failsafe)"
+    },
+    {
+      "code": "6672",
+      "name": "騰輝電子-KY",
+      "last_close": 207.5,
+      "add_range": [
+        122.5,
+        160.03
+      ],
+      "tp_short": 226.0,
+      "tp_mid": 238.62,
+      "verdict": "持有",
+      "reason": "距MA60+71.83%過熱",
+      "stars": {
+        "tech": 2,
+        "chip": 4,
+        "fundamental": 4
+      },
+      "analysis_date": "2026-04-23",
+      "refreshed_at": "2026-04-27",
+      "refresh_failed": true,
+      "refresh_error": "verdict downgraded on refresh; kept as 持有 (failsafe)"
+    },
+    {
+      "code": "3221",
+      "name": "台嘉碩",
+      "last_close": 40.55,
+      "add_range": [
+        32.8,
+        39.74
+      ],
+      "tp_short": 53.7,
+      "tp_mid": 56.39,
+      "verdict": "持有",
+      "reason": "跌破MA20",
+      "stars": {
+        "tech": 3,
+        "chip": 2,
+        "fundamental": 3
+      },
+      "analysis_date": "2026-04-22",
+      "refreshed_at": "2026-04-27",
+      "refresh_failed": true,
+      "refresh_error": "verdict downgraded on refresh; kept as 持有 (failsafe)"
     }
   ]
 }
