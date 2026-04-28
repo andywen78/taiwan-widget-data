@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T20:02:52+08:00",
+  "generated_at": "2026-04-28T20:38:33+08:00",
   "source": "taiwan-stock",
   "holdings": [
     {
@@ -8,25 +8,25 @@
       "avg_cost": 22.04,
       "lots": 10,
       "last_close": 19.95,
-      "add_on": 20.0,
-      "stop_loss": 19.5,
-      "tp_short": 22.0,
+      "add_on": 19.5,
+      "stop_loss": null,
+      "tp_short": 21.9,
       "tp_mid": 24.2,
       "verdict": "持有觀望",
-      "reason": "虧損9.5%，等量能轉強再加碼"
+      "reason": "套牢9.5%，等量能或法人轉強"
     },
     {
-      "code": "6438",
-      "name": "迅得",
-      "avg_cost": 180.17,
-      "lots": 3,
-      "last_close": 178.5,
-      "add_on": 178.0,
-      "stop_loss": 172.0,
-      "tp_short": 188.0,
-      "tp_mid": 193.0,
-      "verdict": "加碼",
-      "reason": "外資連買+紅K反彈"
+      "code": "2344",
+      "name": "華邦電",
+      "avg_cost": 95.8,
+      "lots": 1,
+      "last_close": 95.5,
+      "add_on": 93.0,
+      "stop_loss": null,
+      "tp_short": 98.0,
+      "tp_mid": 105.0,
+      "verdict": "持有可加碼",
+      "reason": "法人狂買+突破MA20，動能成形"
     },
     {
       "code": "3702",
@@ -34,25 +34,25 @@
       "avg_cost": 97.8,
       "lots": 3,
       "last_close": 99.5,
-      "add_on": 97.0,
-      "stop_loss": 93.0,
+      "add_on": 96.0,
+      "stop_loss": 95.0,
       "tp_short": 103.5,
       "tp_mid": 110.0,
-      "verdict": "加碼",
-      "reason": "外資大買+輝達供應鏈題材"
+      "verdict": "持有續抱",
+      "reason": "多頭排列+創新高，但投信偏空"
     },
     {
-      "code": "2243",
-      "name": "宏旭-KY",
-      "avg_cost": 23.48,
-      "lots": 3,
-      "last_close": 27.4,
-      "add_on": 25.0,
-      "stop_loss": null,
-      "tp_short": 30.0,
-      "tp_mid": 33.0,
-      "verdict": "持有",
-      "reason": "突破壓力但短線漲幅大，可考慮部分停利"
+      "code": "6168",
+      "name": "宏齊",
+      "avg_cost": 24.6,
+      "lots": 5,
+      "last_close": 24.5,
+      "add_on": 23.0,
+      "stop_loss": 22.7,
+      "tp_short": 26.3,
+      "tp_mid": 30.8,
+      "verdict": "持有觀望",
+      "reason": "量縮整理等方向"
     }
   ]
 }
