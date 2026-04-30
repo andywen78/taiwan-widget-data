@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T20:03:29+08:00",
+  "generated_at": "2026-04-30T20:05:10+08:00",
   "source": "taiwan-stock",
   "holdings": [
     {
@@ -7,78 +7,78 @@
       "name": "聯嘉投控",
       "avg_cost": 22.04,
       "lots": 10,
-      "last_close": 19.75,
-      "add_on": 20.0,
-      "stop_loss": 19.5,
-      "tp_short": 22.5,
+      "last_close": 19.5,
+      "add_on": 19.5,
+      "stop_loss": 19.3,
+      "tp_short": 21.7,
       "tp_mid": 24.2,
       "verdict": "持有觀望",
-      "reason": "三連黑K跌破MA20，但量縮無恐慌，AI智慧宅基本面強"
+      "reason": "量縮等訊號，跌破19.3退出"
     },
     {
       "code": "2344",
       "name": "華邦電",
-      "avg_cost": 94.68,
-      "lots": 4,
-      "last_close": 92.7,
-      "add_on": 90.5,
-      "stop_loss": 88.0,
+      "avg_cost": 92.67,
+      "lots": 7,
+      "last_close": 89.8,
+      "add_on": 83.8,
+      "stop_loss": null,
       "tp_short": 98.0,
       "tp_mid": 104.0,
       "verdict": "持有",
-      "reason": "DDR4缺貨延續至2027，5日法人+364億結構買盤"
+      "reason": "法說前波動，等83.8支撐"
     },
     {
       "code": "3702",
       "name": "大聯大",
       "avg_cost": 97.8,
       "lots": 3,
-      "last_close": 102.0,
-      "add_on": 100.0,
-      "stop_loss": 95.6,
-      "tp_short": 107.0,
-      "tp_mid": 115.0,
-      "verdict": "持有加碼",
-      "reason": "多頭排列突破中，Q1營收創高、AI拉貨持續"
+      "last_close": 101.0,
+      "add_on": 99.0,
+      "stop_loss": null,
+      "tp_short": 103.5,
+      "tp_mid": 110.0,
+      "verdict": "持有",
+      "reason": "趨勢最穩，外資5日大買"
     },
     {
       "code": "2484",
       "name": "希華",
       "avg_cost": 40.74,
       "lots": 5,
-      "last_close": 40.2,
-      "add_on": 38.0,
-      "stop_loss": 36.0,
-      "tp_short": 43.0,
-      "tp_mid": 51.2,
-      "verdict": "持有觀望",
-      "reason": "4/20漲到50.5急殺整理大，注意股、波動高"
+      "last_close": 39.55,
+      "add_on": null,
+      "stop_loss": null,
+      "tp_short": 51.2,
+      "tp_mid": null,
+      "verdict": "觀望",
+      "reason": "4月飆40%後量縮，MA60偏離過大可分批降部位"
     },
     {
       "code": "6438",
       "name": "迅得",
       "avg_cost": 174.0,
       "lots": 1,
-      "last_close": 174.0,
-      "add_on": 165.0,
-      "stop_loss": 161.0,
-      "tp_short": 188.0,
-      "tp_mid": 195.0,
+      "last_close": 176.0,
+      "add_on": 171.0,
+      "stop_loss": null,
+      "tp_short": 193.0,
+      "tp_mid": 200.0,
       "verdict": "持有",
-      "reason": "AI先進封裝設備需求回溫，3月營收創高"
+      "reason": "MA20整理止穩，等量能突破"
     },
     {
-      "code": "8091",
-      "name": "翔名",
-      "avg_cost": 177.5,
+      "code": "2351",
+      "name": "順德",
+      "avg_cost": 153.5,
       "lots": 1,
-      "last_close": 180.5,
-      "add_on": 175.0,
-      "stop_loss": 170.0,
-      "tp_short": 195.0,
-      "tp_mid": 199.5,
+      "last_close": 154.0,
+      "add_on": 149.0,
+      "stop_loss": null,
+      "tp_short": 172.5,
+      "tp_mid": 200.0,
       "verdict": "持有",
-      "reason": "2026營收+38%、法人目標價185，殖利率6.81%"
+      "reason": "AI均熱片題材熱，但偏離MA20+16%留意上影壓力"
     }
   ]
 }
