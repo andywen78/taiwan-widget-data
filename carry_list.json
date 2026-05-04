@@ -1,5 +1,5 @@
 {
-  "_doc": "User-specified persistent watchlist — these codes are always re-analysed daily even if not in today's bullish-filter top, and their verdict reflects the real refresh result (NOT failsafe-frozen to 持有/加碼).",
+  "_doc": "User-specified PERSISTENT watchlist — codes here are always re-analysed daily and persist regardless of verdict (even 觀望/減碼 will keep showing). Use this for stocks you want to track long-term, NOT for normal carryover. Currently empty: all 5 stocks fall through to the standard 持有/加碼-only carryover path.",
   "updated_at": "2026-05-05",
-  "codes": ["2399", "6168", "6147", "3702", "2243"]
+  "codes": []
 }

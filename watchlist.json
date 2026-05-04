@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T07:31:55+08:00",
+  "generated_at": "2026-05-05T07:45:07+08:00",
   "source": "taiwan-bullish-filter",
   "stocks": [
     {
@@ -552,8 +552,7 @@
         "chip": 1,
         "fundamental": 3
       },
-      "refresh_failed": false,
-      "is_carry_list": true
+      "refresh_failed": false
     },
     {
       "code": "6168",
@@ -574,8 +573,7 @@
         "chip": 1,
         "fundamental": 3
       },
-      "refresh_failed": false,
-      "is_carry_list": true
+      "refresh_failed": false
     },
     {
       "code": "6147",
@@ -596,8 +594,7 @@
         "chip": 1,
         "fundamental": 4
       },
-      "refresh_failed": false,
-      "is_carry_list": true
+      "refresh_failed": false
     },
     {
       "code": "3702",
@@ -618,8 +615,7 @@
         "chip": 5,
         "fundamental": 5
       },
-      "refresh_failed": false,
-      "is_carry_list": true
+      "refresh_failed": false
     },
     {
       "code": "2243",
@@ -640,8 +636,7 @@
         "chip": 2,
         "fundamental": 3
       },
-      "refresh_failed": false,
-      "is_carry_list": true
+      "refresh_failed": false
     }
   ]
 }
