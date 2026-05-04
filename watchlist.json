@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T07:45:07+08:00",
+  "generated_at": "2026-05-05T07:54:29+08:00",
   "source": "taiwan-bullish-filter",
   "stocks": [
     {
@@ -290,29 +290,27 @@
         "fundamental": 5
       },
       "analysis_date": "2026-04-24",
-      "refreshed_at": "2026-05-04",
-      "refresh_failed": false
+      "refreshed_at": "2026-05-05"
     },
     {
       "code": "5292",
       "name": "華懋",
-      "last_close": 238.5,
+      "last_close": 240.0,
       "add_range": [
         204.5,
-        235.0
+        234.53
       ],
       "tp_short": 271.5,
       "tp_mid": 285.07,
-      "verdict": "持有",
-      "reason": "技術+籌碼中性",
+      "verdict": "觀望",
+      "reason": "趨勢=資料不足",
       "stars": {
-        "tech": 4,
+        "tech": 3,
         "chip": 3,
         "fundamental": 5
       },
       "analysis_date": "2026-04-24",
-      "refreshed_at": "2026-05-04",
-      "refresh_failed": false
+      "refreshed_at": "2026-05-05"
     },
     {
       "code": "3221",
@@ -332,8 +330,7 @@
         "fundamental": 3
       },
       "analysis_date": "2026-04-22",
-      "refreshed_at": "2026-05-04",
-      "refresh_failed": false
+      "refreshed_at": "2026-05-05"
     },
     {
       "code": "6683",
@@ -345,7 +342,7 @@
       ],
       "tp_short": 2521.8,
       "tp_mid": 2685.25,
-      "verdict": "持有",
+      "verdict": "觀望",
       "reason": "距MA60+89.58%過熱",
       "stars": {
         "tech": 2,
@@ -353,9 +350,7 @@
         "fundamental": 5
       },
       "analysis_date": "2026-05-01",
-      "refreshed_at": "2026-05-04",
-      "refresh_failed": true,
-      "refresh_error": "verdict refreshed to 觀望; preserved 持有"
+      "refreshed_at": "2026-05-05"
     },
     {
       "code": "3587",
@@ -367,7 +362,7 @@
       ],
       "tp_short": 377.5,
       "tp_mid": 396.38,
-      "verdict": "持有",
+      "verdict": "觀望",
       "reason": "距MA60+36.69%過熱",
       "stars": {
         "tech": 2,
@@ -375,9 +370,7 @@
         "fundamental": 5
       },
       "analysis_date": "2026-04-24",
-      "refreshed_at": "2026-05-04",
-      "refresh_failed": true,
-      "refresh_error": "verdict refreshed to 觀望; preserved 持有"
+      "refreshed_at": "2026-05-05"
     },
     {
       "code": "6187",
@@ -389,7 +382,7 @@
       ],
       "tp_short": 1490.0,
       "tp_mid": 1564.5,
-      "verdict": "持有",
+      "verdict": "觀望",
       "reason": "距MA60+73.54%過熱",
       "stars": {
         "tech": 2,
@@ -397,21 +390,19 @@
         "fundamental": 5
       },
       "analysis_date": "2026-04-24",
-      "refreshed_at": "2026-05-04",
-      "refresh_failed": true,
-      "refresh_error": "verdict refreshed to 觀望; preserved 持有"
+      "refreshed_at": "2026-05-05"
     },
     {
       "code": "6438",
       "name": "迅得",
-      "last_close": 177.0,
+      "last_close": 176.0,
       "add_range": [
         165.5,
-        173.46
+        172.48
       ],
       "tp_short": 193.0,
-      "tp_mid": 203.55,
-      "verdict": "持有",
+      "tp_mid": 202.65,
+      "verdict": "減碼",
       "reason": "跌破MA20",
       "stars": {
         "tech": 2,
@@ -419,21 +410,19 @@
         "fundamental": 5
       },
       "analysis_date": "2026-04-22",
-      "refreshed_at": "2026-05-04",
-      "refresh_failed": true,
-      "refresh_error": "verdict refreshed to 減碼; preserved 持有"
+      "refreshed_at": "2026-05-05"
     },
     {
       "code": "3717",
       "name": "聯嘉投控",
-      "last_close": 20.0,
+      "last_close": 19.5,
       "add_range": [
-        19.5,
-        19.6
+        18.54,
+        19.11
       ],
       "tp_short": 24.2,
       "tp_mid": 25.41,
-      "verdict": "持有",
+      "verdict": "減碼",
       "reason": "跌破MA20",
       "stars": {
         "tech": 2,
@@ -441,75 +430,67 @@
         "fundamental": 3
       },
       "analysis_date": "2026-04-21",
-      "refreshed_at": "2026-05-04",
-      "refresh_failed": true,
-      "refresh_error": "verdict refreshed to 減碼; preserved 持有"
+      "refreshed_at": "2026-05-05"
     },
     {
       "code": "6672",
       "name": "騰輝電子-KY",
-      "last_close": 223.0,
+      "last_close": 219.0,
       "add_range": [
-        127.5,
-        177.12
+        126.0,
+        172.47
       ],
-      "tp_short": 238.0,
-      "tp_mid": 256.45,
-      "verdict": "持有",
-      "reason": "距MA60+73.62%過熱",
+      "tp_short": 227.0,
+      "tp_mid": 251.85,
+      "verdict": "觀望",
+      "reason": "趨勢=資料不足",
       "stars": {
-        "tech": 2,
+        "tech": 3,
         "chip": 2,
         "fundamental": 4
       },
       "analysis_date": "2026-04-23",
-      "refreshed_at": "2026-05-04",
-      "refresh_failed": true,
-      "refresh_error": "verdict refreshed to 觀望; preserved 持有"
+      "refreshed_at": "2026-05-05"
     },
     {
       "code": "2351",
       "name": "順德",
-      "last_close": 158.0,
+      "last_close": 154.0,
       "add_range": [
-        98.8,
-        134.88
+        98.3,
+        132.16
       ],
       "tp_short": 172.5,
-      "tp_mid": 181.7,
-      "verdict": "持有",
-      "reason": "距MA60+50.69%過熱",
+      "tp_mid": 181.12,
+      "verdict": "觀望",
+      "reason": "趨勢=資料不足",
       "stars": {
-        "tech": 2,
+        "tech": 3,
         "chip": 2,
         "fundamental": 3
       },
       "analysis_date": "2026-04-23",
-      "refreshed_at": "2026-05-04",
-      "refresh_failed": true,
-      "refresh_error": "verdict refreshed to 觀望; preserved 持有"
+      "refreshed_at": "2026-05-05"
     },
     {
       "code": "3167",
       "name": "大量",
-      "last_close": 854.0,
+      "last_close": 861.0,
       "add_range": [
-        416.0,
-        664.42
+        376.0,
+        641.98
       ],
       "tp_short": 894.0,
-      "tp_mid": 982.1,
-      "verdict": "持有",
-      "reason": "距MA60+103.61%過熱",
+      "tp_mid": 990.15,
+      "verdict": "觀望",
+      "reason": "趨勢=資料不足",
       "stars": {
-        "tech": 2,
+        "tech": 3,
         "chip": 2,
         "fundamental": 5
       },
       "analysis_date": "2026-04-30",
-      "refreshed_at": "2026-05-04",
-      "refresh_failed": true,
-      "refresh_error": "verdict refreshed to 觀望; preserved 持有"
+      "refreshed_at": "2026-05-05"
     },
     {
       "code": "6532",
@@ -521,7 +502,7 @@
       ],
       "tp_short": 111.5,
       "tp_mid": 117.08,
-      "verdict": "持有",
+      "verdict": "觀望",
       "reason": "距MA60+40.55%過熱",
       "stars": {
         "tech": 2,
@@ -529,9 +510,7 @@
         "fundamental": 5
       },
       "analysis_date": "2026-04-28",
-      "refreshed_at": "2026-05-04",
-      "refresh_failed": true,
-      "refresh_error": "verdict refreshed to 觀望; preserved 持有"
+      "refreshed_at": "2026-05-05"
     },
     {
       "code": "2399",
