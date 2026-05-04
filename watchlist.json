@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T20:48:26+08:00",
+  "generated_at": "2026-05-05T07:31:55+08:00",
   "source": "taiwan-bullish-filter",
   "stocks": [
     {
@@ -532,6 +532,116 @@
       "refreshed_at": "2026-05-04",
       "refresh_failed": true,
       "refresh_error": "verdict refreshed to 觀望; preserved 持有"
+    },
+    {
+      "code": "2399",
+      "name": "映泰",
+      "analysis_date": "2026-05-05",
+      "refreshed_at": "2026-05-05",
+      "last_close": 42.45,
+      "add_range": [
+        30.6,
+        37.69
+      ],
+      "tp_short": 45.5,
+      "tp_mid": 48.82,
+      "verdict": "觀望",
+      "reason": "趨勢=資料不足",
+      "stars": {
+        "tech": 3,
+        "chip": 1,
+        "fundamental": 3
+      },
+      "refresh_failed": false,
+      "is_carry_list": true
+    },
+    {
+      "code": "6168",
+      "name": "宏齊",
+      "analysis_date": "2026-05-05",
+      "refreshed_at": "2026-05-05",
+      "last_close": 25.1,
+      "add_range": [
+        23.2,
+        24.6
+      ],
+      "tp_short": 30.8,
+      "tp_mid": 32.34,
+      "verdict": "減碼",
+      "reason": "跌破MA20",
+      "stars": {
+        "tech": 2,
+        "chip": 1,
+        "fundamental": 3
+      },
+      "refresh_failed": false,
+      "is_carry_list": true
+    },
+    {
+      "code": "6147",
+      "name": "頎邦",
+      "analysis_date": "2026-05-05",
+      "refreshed_at": "2026-05-05",
+      "last_close": 179.0,
+      "add_range": [
+        79.7,
+        124.85
+      ],
+      "tp_short": 193.32,
+      "tp_mid": 205.85,
+      "verdict": "觀望",
+      "reason": "距MA60+119.6%過熱",
+      "stars": {
+        "tech": 2,
+        "chip": 1,
+        "fundamental": 4
+      },
+      "refresh_failed": false,
+      "is_carry_list": true
+    },
+    {
+      "code": "3702",
+      "name": "大聯大",
+      "analysis_date": "2026-05-05",
+      "refreshed_at": "2026-05-05",
+      "last_close": 101.0,
+      "add_range": [
+        87.4,
+        96.25
+      ],
+      "tp_short": 103.5,
+      "tp_mid": 116.15,
+      "verdict": "觀望",
+      "reason": "趨勢=資料不足",
+      "stars": {
+        "tech": 3,
+        "chip": 5,
+        "fundamental": 5
+      },
+      "refresh_failed": false,
+      "is_carry_list": true
+    },
+    {
+      "code": "2243",
+      "name": "宏旭-KY",
+      "analysis_date": "2026-05-05",
+      "refreshed_at": "2026-05-05",
+      "last_close": 27.25,
+      "add_range": [
+        18.55,
+        23.47
+      ],
+      "tp_short": 28.8,
+      "tp_mid": 31.34,
+      "verdict": "觀望",
+      "reason": "趨勢=資料不足",
+      "stars": {
+        "tech": 3,
+        "chip": 2,
+        "fundamental": 3
+      },
+      "refresh_failed": false,
+      "is_carry_list": true
     }
   ]
 }

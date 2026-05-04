@@ -1,0 +1,5 @@
+{
+  "_doc": "User-specified persistent watchlist — these codes are always re-analysed daily even if not in today's bullish-filter top, and their verdict reflects the real refresh result (NOT failsafe-frozen to 持有/加碼).",
+  "updated_at": "2026-05-05",
+  "codes": ["2399", "6168", "6147", "3702", "2243"]
+}
