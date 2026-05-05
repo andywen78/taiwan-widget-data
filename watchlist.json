@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T20:44:32+08:00",
+  "generated_at": "2026-05-05T20:48:38+08:00",
   "source": "taiwan-bullish-filter",
   "stocks": [
     {
@@ -331,7 +331,7 @@
         "chip": 3,
         "fundamental": 4
       },
-      "analysis_date": "2026-05-05",
+      "analysis_date": "2026-05-04",
       "refreshed_at": "2026-05-05",
       "refresh_failed": true,
       "refresh_error": "refreshed verdict fell out of 持有/加碼"
