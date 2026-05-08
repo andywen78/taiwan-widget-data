@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T20:38:49+08:00",
+  "generated_at": "2026-05-08T20:43:03+08:00",
   "source": "taiwan-bullish-filter",
   "stocks": [
     {
@@ -292,6 +292,248 @@
       "analysis_date": "2026-05-07",
       "refreshed_at": "2026-05-08",
       "refresh_failed": false
+    },
+    {
+      "code": "8383",
+      "name": "千附",
+      "last_close": 60.1,
+      "add_range": [
+        48.25,
+        58.9
+      ],
+      "tp_short": 77.0,
+      "tp_mid": 80.85,
+      "verdict": "加碼",
+      "reason": "跌破MA20",
+      "stars": {
+        "tech": 3,
+        "chip": 1,
+        "fundamental": 4
+      },
+      "analysis_date": "2026-05-07",
+      "refreshed_at": "2026-05-08",
+      "refresh_failed": true,
+      "refresh_error": "verdict downgraded on refresh; kept as 加碼 (failsafe)"
+    },
+    {
+      "code": "3031",
+      "name": "佰鴻",
+      "last_close": 29.55,
+      "add_range": [
+        25.75,
+        28.96
+      ],
+      "tp_short": 35.3,
+      "tp_mid": 37.06,
+      "verdict": "持有",
+      "reason": "跌破MA20",
+      "stars": {
+        "tech": 2,
+        "chip": 4,
+        "fundamental": 3
+      },
+      "analysis_date": "2026-05-05",
+      "refreshed_at": "2026-05-08",
+      "refresh_failed": true,
+      "refresh_error": "verdict downgraded on refresh; kept as 持有 (failsafe)"
+    },
+    {
+      "code": "2460",
+      "name": "建通",
+      "last_close": 32.0,
+      "add_range": [
+        29.2,
+        31.36
+      ],
+      "tp_short": 41.2,
+      "tp_mid": 43.26,
+      "verdict": "持有",
+      "reason": "跌破MA20",
+      "stars": {
+        "tech": 2,
+        "chip": 3,
+        "fundamental": 1
+      },
+      "analysis_date": "2026-05-04",
+      "refreshed_at": "2026-05-08",
+      "refresh_failed": true,
+      "refresh_error": "verdict downgraded on refresh; kept as 持有 (failsafe)"
+    },
+    {
+      "code": "5292",
+      "name": "華懋",
+      "last_close": 226.0,
+      "add_range": [
+        213.0,
+        221.48
+      ],
+      "tp_short": 271.5,
+      "tp_mid": 285.07,
+      "verdict": "持有",
+      "reason": "跌破MA20",
+      "stars": {
+        "tech": 2,
+        "chip": 2,
+        "fundamental": 5
+      },
+      "analysis_date": "2026-04-24",
+      "refreshed_at": "2026-05-08",
+      "refresh_failed": true,
+      "refresh_error": "verdict downgraded on refresh; kept as 持有 (failsafe)"
+    },
+    {
+      "code": "6683",
+      "name": "雍智科技",
+      "last_close": 2210.0,
+      "add_range": [
+        1610.0,
+        1992.25
+      ],
+      "tp_short": 2565.0,
+      "tp_mid": 2693.25,
+      "verdict": "持有",
+      "reason": "距MA60+62.79%過熱",
+      "stars": {
+        "tech": 2,
+        "chip": 3,
+        "fundamental": 5
+      },
+      "analysis_date": "2026-05-01",
+      "refreshed_at": "2026-05-08",
+      "refresh_failed": true,
+      "refresh_error": "verdict downgraded on refresh; kept as 持有 (failsafe)"
+    },
+    {
+      "code": "3587",
+      "name": "閎康",
+      "last_close": 319.0,
+      "add_range": [
+        278.0,
+        312.62
+      ],
+      "tp_short": 377.5,
+      "tp_mid": 396.38,
+      "verdict": "持有",
+      "reason": "跌破MA20",
+      "stars": {
+        "tech": 2,
+        "chip": 4,
+        "fundamental": 5
+      },
+      "analysis_date": "2026-04-24",
+      "refreshed_at": "2026-05-08",
+      "refresh_failed": true,
+      "refresh_error": "verdict downgraded on refresh; kept as 持有 (failsafe)"
+    },
+    {
+      "code": "6187",
+      "name": "萬潤",
+      "last_close": 1070.0,
+      "add_range": [
+        900.0,
+        1048.6
+      ],
+      "tp_short": 1490.0,
+      "tp_mid": 1564.5,
+      "verdict": "持有",
+      "reason": "跌破MA20",
+      "stars": {
+        "tech": 1,
+        "chip": 1,
+        "fundamental": 5
+      },
+      "analysis_date": "2026-04-24",
+      "refreshed_at": "2026-05-08",
+      "refresh_failed": true,
+      "refresh_error": "verdict downgraded on refresh; kept as 持有 (failsafe)"
+    },
+    {
+      "code": "3167",
+      "name": "大量",
+      "last_close": 684.0,
+      "add_range": [
+        561.0,
+        670.32
+      ],
+      "tp_short": 894.0,
+      "tp_mid": 938.7,
+      "verdict": "持有",
+      "reason": "跌破MA20",
+      "stars": {
+        "tech": 1,
+        "chip": 1,
+        "fundamental": 5
+      },
+      "analysis_date": "2026-04-30",
+      "refreshed_at": "2026-05-08",
+      "refresh_failed": true,
+      "refresh_error": "verdict downgraded on refresh; kept as 持有 (failsafe)"
+    },
+    {
+      "code": "6532",
+      "name": "瑞耘",
+      "last_close": 114.0,
+      "add_range": [
+        75.0,
+        93.12
+      ],
+      "tp_short": 123.12,
+      "tp_mid": 131.1,
+      "verdict": "持有",
+      "reason": "距MA60+53.85%過熱",
+      "stars": {
+        "tech": 2,
+        "chip": 4,
+        "fundamental": 5
+      },
+      "analysis_date": "2026-04-28",
+      "refreshed_at": "2026-05-08",
+      "refresh_failed": true,
+      "refresh_error": "verdict downgraded on refresh; kept as 持有 (failsafe)"
+    },
+    {
+      "code": "3673",
+      "name": "TPK-KY",
+      "last_close": 59.0,
+      "add_range": [
+        49.3,
+        57.82
+      ],
+      "tp_short": 75.2,
+      "tp_mid": 78.96,
+      "verdict": "加碼",
+      "reason": "跌破MA20",
+      "stars": {
+        "tech": 2,
+        "chip": 1,
+        "fundamental": 4
+      },
+      "analysis_date": "2026-05-05",
+      "refreshed_at": "2026-05-08",
+      "refresh_failed": true,
+      "refresh_error": "verdict downgraded on refresh; kept as 加碼 (failsafe)"
+    },
+    {
+      "code": "4720",
+      "name": "德淵",
+      "last_close": 26.05,
+      "add_range": [
+        18.5,
+        24.62
+      ],
+      "tp_short": 30.05,
+      "tp_mid": 31.55,
+      "verdict": "持有",
+      "reason": "距MA60+34.21%過熱",
+      "stars": {
+        "tech": 2,
+        "chip": 3,
+        "fundamental": 3
+      },
+      "analysis_date": "2026-05-06",
+      "refreshed_at": "2026-05-08",
+      "refresh_failed": true,
+      "refresh_error": "verdict downgraded on refresh; kept as 持有 (failsafe)"
     }
   ]
 }
