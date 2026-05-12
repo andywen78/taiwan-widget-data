@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T20:03:16+08:00",
+  "generated_at": "2026-05-12T20:05:58+08:00",
   "source": "taiwan-stock",
   "holdings": [
     {
@@ -8,103 +8,103 @@
       "avg_cost": 1005.0,
       "lots": 0.04,
       "last_close": 1175.0,
-      "add_on": 1050.0,
+      "add_on": 1045.0,
       "stop_loss": null,
-      "tp_short": 1250.0,
-      "tp_mid": 1400.0,
-      "verdict": "持有",
-      "reason": "Q1財報亮眼但乖離過大，警戒短線拉回"
+      "tp_short": 1210.0,
+      "tp_mid": 1300.0,
+      "verdict": "持有獲利續抱",
+      "reason": "Q1 EPS 3.66 創新高 漲幅領跑 千元守穩"
     },
     {
       "code": "4707",
       "name": "磐亞",
       "avg_cost": 14.9,
       "lots": 5,
-      "last_close": 16.5,
-      "add_on": 16.0,
+      "last_close": 16.2,
+      "add_on": null,
       "stop_loss": null,
-      "tp_short": 17.5,
-      "tp_mid": 19.0,
-      "verdict": "持有加碼",
-      "reason": "法人單日爆量買進，題材股活絡"
+      "tp_short": 17.2,
+      "tp_mid": 18.5,
+      "verdict": "持有觀望",
+      "reason": "外資 5/12 大殺 -1435 流星型態 短線轉弱"
     },
     {
       "code": "6438",
       "name": "迅得",
       "avg_cost": 174.25,
       "lots": 2,
-      "last_close": 171.0,
-      "add_on": 168.0,
+      "last_close": 171.5,
+      "add_on": 167.0,
       "stop_loss": null,
-      "tp_short": 185.0,
-      "tp_mid": 200.0,
+      "tp_short": 180.0,
+      "tp_mid": 193.0,
       "verdict": "持有觀望",
-      "reason": "套牢-1.9%，量縮整理等量能回溫"
+      "reason": "4月營收創新高 量能萎縮 等回測 20日支撐"
     },
     {
       "code": "3673",
       "name": "TPK-KY",
       "avg_cost": 61.78,
       "lots": 5,
-      "last_close": 59.8,
-      "add_on": 57.0,
-      "stop_loss": 58.0,
-      "tp_short": 65.0,
-      "tp_mid": 72.0,
+      "last_close": 60.6,
+      "add_on": null,
+      "stop_loss": null,
+      "tp_short": 63.5,
+      "tp_mid": 67.0,
       "verdict": "持有觀望",
-      "reason": "外資連賣壓重，跌破58需減碼"
+      "reason": "外資 5 日狂賣 -2805 流星弱勢 等量縮回測 56.6"
     },
     {
       "code": "3031",
       "name": "佰鴻",
       "avg_cost": 32.0,
       "lots": 3,
-      "last_close": 30.0,
+      "last_close": 29.85,
       "add_on": 29.0,
       "stop_loss": null,
-      "tp_short": 33.0,
-      "tp_mid": 36.0,
-      "verdict": "持有",
-      "reason": "外資連5日買超+高殖利率支撐"
+      "tp_short": 31.5,
+      "tp_mid": 33.0,
+      "verdict": "持有觀望",
+      "reason": "外資連5買 +1721 籌碼最佳 等技術止跌訊號"
     },
     {
       "code": "8383",
       "name": "千附",
       "avg_cost": 62.9,
       "lots": 11,
-      "last_close": 56.0,
-      "add_on": null,
-      "stop_loss": 55.0,
+      "last_close": 56.7,
+      "add_on": 51.0,
+      "stop_loss": null,
       "tp_short": 62.0,
-      "tp_mid": 70.0,
-      "verdict": "減碼觀望",
-      "reason": "套牢-11%最深，跌破55元需停損"
+      "tp_mid": 67.0,
+      "verdict": "持有觀望",
+      "reason": "距 MA20 已 -9.8% 套牢 10% 耐心等止跌"
     },
     {
       "code": "2460",
       "name": "建通",
       "avg_cost": 34.6,
       "lots": 4,
-      "last_close": 33.0,
-      "add_on": 35.0,
+      "last_close": 32.05,
+      "add_on": 31.2,
       "stop_loss": null,
-      "tp_short": 38.0,
-      "tp_mid": 42.0,
+      "tp_short": 35.88,
+      "tp_mid": 38.0,
       "verdict": "持有觀望",
-      "reason": "基本面題材足等突破35元訊號"
+      "reason": "3月營收創新高獲利轉正 但量能不足 等帶量止跌"
     },
     {
       "code": "8091",
       "name": "翔名",
       "avg_cost": 191.5,
       "lots": 1,
-      "last_close": 200.0,
-      "add_on": 195.0,
-      "stop_loss": null,
-      "tp_short": 215.0,
-      "tp_mid": 230.0,
-      "verdict": "持有",
-      "reason": "多頭+爆量但長上影留意209壓力"
+      "last_close": 190.0,
+      "add_on": 186.3,
+      "stop_loss": 188.0,
+      "tp_short": 197.0,
+      "tp_mid": 209.0,
+      "verdict": "持有觀望",
+      "reason": "今日 -5% 大黑K 跌破多頭排列 外資轉賣 守 188"
     }
   ]
 }
