@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T20:03:36+08:00",
+  "generated_at": "2026-05-15T20:05:54+08:00",
   "source": "taiwan-stock",
   "holdings": [
     {
@@ -7,13 +7,13 @@
       "name": "磐儀",
       "avg_cost": 54.3,
       "lots": 2,
-      "last_close": 55.2,
-      "add_on": 54.5,
+      "last_close": 49.7,
+      "add_on": 45.0,
       "stop_loss": null,
-      "tp_short": 59.6,
-      "tp_mid": 65.0,
-      "verdict": "持有",
-      "reason": "多頭排列+營收年增60%+外資回流，續看突破59.6壓力"
+      "tp_short": 56.0,
+      "tp_mid": 60.0,
+      "verdict": "持有觀望",
+      "reason": "中期動能未變但短線跌破MA20急殺，先觀察45元支撐"
     },
     {
       "code": "2460",
@@ -21,12 +21,12 @@
       "avg_cost": 34.35,
       "lots": 3,
       "last_close": 33.6,
-      "add_on": 32.5,
+      "add_on": 32.0,
       "stop_loss": null,
       "tp_short": 38.0,
-      "tp_mid": 41.2,
+      "tp_mid": 41.0,
       "verdict": "持有觀望",
-      "reason": "3月營收創新高獲利轉正，但短線破MA20待止穩"
+      "reason": "營收動能爆衝但股價疲弱，等季底法說確認獲利轉好"
     },
     {
       "code": "6438",
@@ -34,25 +34,25 @@
       "avg_cost": 174.25,
       "lots": 2,
       "last_close": 167.5,
-      "add_on": 167.0,
+      "add_on": 166.0,
       "stop_loss": null,
-      "tp_short": 180.0,
+      "tp_short": 185.0,
       "tp_mid": 193.0,
-      "verdict": "持有觀望",
-      "reason": "4月營收創十年同期新高，量縮整理待量能回溫"
+      "verdict": "持有",
+      "reason": "量縮整理屬健康修正，CoWoS長線題材未變"
     },
     {
       "code": "3388",
       "name": "崇越電",
       "avg_cost": 120.0,
       "lots": 2,
-      "last_close": 108.0,
-      "add_on": 105.0,
+      "last_close": 97.2,
+      "add_on": null,
       "stop_loss": null,
-      "tp_short": 120.0,
-      "tp_mid": 131.5,
-      "verdict": "持有",
-      "reason": "Q1 EPS 6.86創單季新高，高基期短線修正等量縮止跌"
+      "tp_short": 111.0,
+      "tp_mid": 120.0,
+      "verdict": "持有觀望",
+      "reason": "跌停未必為底，觀察明日量能與外資是否續買；基本面強但短線情緒崩盤"
     },
     {
       "code": "3031",
@@ -60,25 +60,12 @@
       "avg_cost": 32.0,
       "lots": 3,
       "last_close": 30.0,
-      "add_on": 30.0,
+      "add_on": 29.0,
       "stop_loss": null,
       "tp_short": 33.0,
-      "tp_mid": 35.3,
-      "verdict": "加碼",
-      "reason": "外資5日+1519張，無人機LED+MicroLED題材+殖利率5.46%"
-    },
-    {
-      "code": "8383",
-      "name": "千附",
-      "avg_cost": 61.56,
-      "lots": 5,
-      "last_close": 54.6,
-      "add_on": null,
-      "stop_loss": null,
-      "tp_short": 60.0,
-      "tp_mid": 70.0,
-      "verdict": "持有觀望",
-      "reason": "技術籌碼雙弱，待50元年線止穩再評估"
+      "tp_mid": 35.0,
+      "verdict": "持有",
+      "reason": "量縮量小變化空間有限，等無人機題材續燒或營收續創新高再進場"
     },
     {
       "code": "3033",
@@ -86,12 +73,12 @@
       "avg_cost": 43.48,
       "lots": 3,
       "last_close": 46.4,
-      "add_on": 44.0,
-      "stop_loss": null,
+      "add_on": 43.0,
+      "stop_loss": 44.0,
       "tp_short": 50.0,
       "tp_mid": 55.0,
-      "verdict": "加碼",
-      "reason": "外資5日+14627張、Q1 EPS季增95%、爆量突破前高"
+      "verdict": "持有",
+      "reason": "漲多注意拉回，獲利已達+6.7%，可考慮停利1張落袋為安"
     }
   ]
 }
