@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T20:05:54+08:00",
+  "generated_at": "2026-05-18T20:02:53+08:00",
   "source": "taiwan-stock",
   "holdings": [
     {
@@ -7,78 +7,78 @@
       "name": "磐儀",
       "avg_cost": 54.3,
       "lots": 2,
-      "last_close": 49.7,
-      "add_on": 45.0,
+      "last_close": 49.25,
+      "add_on": 48.5,
       "stop_loss": null,
-      "tp_short": 56.0,
-      "tp_mid": 60.0,
+      "tp_short": 53.5,
+      "tp_mid": 59.6,
       "verdict": "持有觀望",
-      "reason": "中期動能未變但短線跌破MA20急殺，先觀察45元支撐"
+      "reason": "成本套牢但季線守住，等量能轉強"
     },
     {
       "code": "2460",
       "name": "建通",
       "avg_cost": 34.35,
       "lots": 3,
-      "last_close": 33.6,
-      "add_on": 32.0,
+      "last_close": 32.2,
+      "add_on": 31.2,
       "stop_loss": null,
-      "tp_short": 38.0,
-      "tp_mid": 41.0,
+      "tp_short": 35.3,
+      "tp_mid": 41.2,
       "verdict": "持有觀望",
-      "reason": "營收動能爆衝但股價疲弱，等季底法說確認獲利轉好"
+      "reason": "縮量止跌，等放量確認轉強"
     },
     {
       "code": "6438",
       "name": "迅得",
       "avg_cost": 174.25,
       "lots": 2,
-      "last_close": 167.5,
-      "add_on": 166.0,
+      "last_close": 166.0,
+      "add_on": 160.0,
       "stop_loss": null,
-      "tp_short": 185.0,
+      "tp_short": 174.0,
       "tp_mid": 193.0,
-      "verdict": "持有",
-      "reason": "量縮整理屬健康修正，CoWoS長線題材未變"
+      "verdict": "持有觀望",
+      "reason": "季線守住基本面強，等量價轉多"
     },
     {
       "code": "3388",
       "name": "崇越電",
       "avg_cost": 120.0,
       "lots": 2,
-      "last_close": 97.2,
-      "add_on": null,
-      "stop_loss": null,
-      "tp_short": 111.0,
-      "tp_mid": 120.0,
+      "last_close": 99.0,
+      "add_on": 96.0,
+      "stop_loss": 94.4,
+      "tp_short": 110.0,
+      "tp_mid": 131.5,
       "verdict": "持有觀望",
-      "reason": "跌停未必為底，觀察明日量能與外資是否續買；基本面強但短線情緒崩盤"
+      "reason": "套牢深但EPS噴發基本面強，跌破94.4減碼"
     },
     {
       "code": "3031",
       "name": "佰鴻",
       "avg_cost": 32.0,
       "lots": 3,
-      "last_close": 30.0,
-      "add_on": 29.0,
+      "last_close": 28.55,
+      "add_on": 28.0,
       "stop_loss": null,
-      "tp_short": 33.0,
-      "tp_mid": 35.0,
-      "verdict": "持有",
-      "reason": "量縮量小變化空間有限，等無人機題材續燒或營收續創新高再進場"
+      "tp_short": 30.84,
+      "tp_mid": 35.3,
+      "verdict": "持有偏正向",
+      "reason": "外資5日大買+題材+低量見底，等突破確認"
     },
     {
       "code": "3033",
       "name": "威健",
       "avg_cost": 43.48,
       "lots": 3,
-      "last_close": 46.4,
-      "add_on": 43.0,
-      "stop_loss": 44.0,
-      "tp_short": 50.0,
+      "last_close": 48.7,
+      "add_on": 46.5,
+      "stop_loss": null,
+      "tp_short": 52.0,
       "tp_mid": 55.0,
-      "verdict": "持有",
-      "reason": "漲多注意拉回，獲利已達+6.7%，可考慮停利1張落袋為安"
+      "verdict": "持有移動停利",
+      "reason": "外資5日大買多頭噴出，但18日外資調節須警覺"
     }
   ]
 }
