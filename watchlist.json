@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T20:39:54+08:00",
+  "generated_at": "2026-05-26T20:46:01+08:00",
   "source": "taiwan-bullish-filter",
   "stocks": [
     {
@@ -313,6 +313,182 @@
       "analysis_date": "2026-05-22",
       "refreshed_at": "2026-05-26",
       "refresh_failed": false
+    },
+    {
+      "code": "5386",
+      "name": "青雲",
+      "last_close": 546.0,
+      "add_range": [
+        342.0,
+        437.82
+      ],
+      "tp_short": 589.68,
+      "tp_mid": 627.9,
+      "verdict": "加碼",
+      "reason": "距MA60+53.72%過熱",
+      "stars": {
+        "tech": 2,
+        "chip": 3,
+        "fundamental": 5
+      },
+      "analysis_date": "2026-05-22",
+      "refreshed_at": "2026-05-26",
+      "refresh_failed": true,
+      "refresh_error": "verdict_downgraded"
+    },
+    {
+      "code": "6174",
+      "name": "安碁",
+      "last_close": 47.5,
+      "add_range": [
+        26.3,
+        38.61
+      ],
+      "tp_short": 51.4,
+      "tp_mid": 54.62,
+      "verdict": "加碼",
+      "reason": "距MA60+65.91%過熱",
+      "stars": {
+        "tech": 2,
+        "chip": 3,
+        "fundamental": 3
+      },
+      "analysis_date": "2026-05-22",
+      "refreshed_at": "2026-05-26",
+      "refresh_failed": true,
+      "refresh_error": "verdict_downgraded"
+    },
+    {
+      "code": "3430",
+      "name": "奇鈦科",
+      "last_close": 177.5,
+      "add_range": [
+        101.0,
+        155.05
+      ],
+      "tp_short": 189.0,
+      "tp_mid": 204.12,
+      "verdict": "持有",
+      "reason": "距MA60+70.39%過熱",
+      "stars": {
+        "tech": 2,
+        "chip": 2,
+        "fundamental": 4
+      },
+      "analysis_date": "2026-05-22",
+      "refreshed_at": "2026-05-26",
+      "refresh_failed": true,
+      "refresh_error": "verdict_downgraded"
+    },
+    {
+      "code": "6234",
+      "name": "高僑",
+      "last_close": 50.3,
+      "add_range": [
+        41.6,
+        49.29
+      ],
+      "tp_short": 63.3,
+      "tp_mid": 66.47,
+      "verdict": "持有",
+      "reason": "跌破MA20",
+      "stars": {
+        "tech": 1,
+        "chip": 2,
+        "fundamental": 3
+      },
+      "analysis_date": "2026-05-18",
+      "refreshed_at": "2026-05-26",
+      "refresh_failed": true,
+      "refresh_error": "verdict_downgraded"
+    },
+    {
+      "code": "3088",
+      "name": "艾訊",
+      "last_close": 141.0,
+      "add_range": [
+        94.4,
+        123.73
+      ],
+      "tp_short": 146.5,
+      "tp_mid": 162.15,
+      "verdict": "加碼",
+      "reason": "距MA60+42.99%過熱",
+      "stars": {
+        "tech": 2,
+        "chip": 4,
+        "fundamental": 5
+      },
+      "analysis_date": "2026-05-15",
+      "refreshed_at": "2026-05-26",
+      "refresh_failed": true,
+      "refresh_error": "verdict_downgraded"
+    },
+    {
+      "code": "3594",
+      "name": "磐儀",
+      "last_close": 52.0,
+      "add_range": [
+        47.2,
+        50.96
+      ],
+      "tp_short": 59.0,
+      "tp_mid": 61.95,
+      "verdict": "持有",
+      "reason": "跌破MA20",
+      "stars": {
+        "tech": 2,
+        "chip": 4,
+        "fundamental": 3
+      },
+      "analysis_date": "2026-05-14",
+      "refreshed_at": "2026-05-26",
+      "refresh_failed": true,
+      "refresh_error": "verdict_downgraded"
+    },
+    {
+      "code": "4721",
+      "name": "美琪瑪",
+      "last_close": 90.9,
+      "add_range": [
+        80.0,
+        89.41
+      ],
+      "tp_short": 98.0,
+      "tp_mid": 104.53,
+      "verdict": "持有",
+      "reason": "趨勢=盤整",
+      "stars": {
+        "tech": 3,
+        "chip": 3,
+        "fundamental": 4
+      },
+      "analysis_date": "2026-05-14",
+      "refreshed_at": "2026-05-26",
+      "refresh_failed": true,
+      "refresh_error": "verdict_downgraded"
+    },
+    {
+      "code": "3388",
+      "name": "崇越電",
+      "last_close": 105.0,
+      "add_range": [
+        92.7,
+        102.9
+      ],
+      "tp_short": 131.5,
+      "tp_mid": 138.08,
+      "verdict": "加碼",
+      "reason": "跌破MA20",
+      "stars": {
+        "tech": 2,
+        "chip": 2,
+        "fundamental": 3
+      },
+      "analysis_date": "2026-05-13",
+      "refreshed_at": "2026-05-26",
+      "refresh_failed": true,
+      "refresh_error": "verdict_downgraded"
     }
   ]
 }
