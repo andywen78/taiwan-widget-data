@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-05-26T20:05:36+08:00",
+  "generated_at": "2026-05-26T22:38:33+08:00",
   "source": "taiwan-stock",
   "holdings": [
     {
-      "code": "1802",
-      "name": "台玻",
-      "avg_cost": 74.6,
-      "lots": 2,
-      "last_close": 72.2,
-      "add_on": 68.0,
+      "code": "3033",
+      "name": "威健",
+      "avg_cost": 50.3,
+      "lots": 1.0,
+      "last_close": 50.3,
+      "add_on": 49.0,
       "stop_loss": null,
-      "tp_short": 81.0,
-      "tp_mid": 88.0,
+      "tp_short": 55.0,
+      "tp_mid": 60.0,
       "verdict": "持有",
-      "reason": "大量震盪洗盤, 籌碼仍多, 不追高"
+      "reason": "新進場短線整理, 外資已開始買, PE偏低"
     },
     {
       "code": "3141",
@@ -21,12 +21,12 @@
       "avg_cost": 78.4,
       "lots": 0.65,
       "last_close": 79.2,
-      "add_on": 74.0,
+      "add_on": 75.0,
       "stop_loss": null,
-      "tp_short": 88.0,
+      "tp_short": 85.0,
       "tp_mid": 95.0,
-      "verdict": "加碼",
-      "reason": "短線高檔震盪不追, 拉回找買點"
+      "verdict": "持有加碼",
+      "reason": "基本面爆發+電子紙題材+量增"
     },
     {
       "code": "6197",
@@ -34,25 +34,25 @@
       "avg_cost": 273.49,
       "lots": 0.073,
       "last_close": 279.5,
-      "add_on": 260.0,
+      "add_on": 250.0,
       "stop_loss": null,
-      "tp_short": 305.0,
-      "tp_mid": 330.0,
+      "tp_short": 300.0,
+      "tp_mid": 340.0,
       "verdict": "持有",
-      "reason": "AI光通訊主流股, 籌碼洗盤後可再攻"
+      "reason": "Q1暴衝+CPO題材但短線高位"
     },
     {
-      "code": "2327",
-      "name": "國巨",
-      "avg_cost": 493.49,
-      "lots": 0.041,
-      "last_close": 661.0,
-      "add_on": 620.0,
+      "code": "2337",
+      "name": "旺宏",
+      "avg_cost": 161.5,
+      "lots": 1.0,
+      "last_close": 160.5,
+      "add_on": 155.0,
       "stop_loss": null,
-      "tp_short": 720.0,
-      "tp_mid": 800.0,
-      "verdict": "持有",
-      "reason": "兆元市值股, 漲多回檔屬正常震盪"
+      "tp_short": 178.0,
+      "tp_mid": 200.0,
+      "verdict": "持有加碼",
+      "reason": "站上MA20+外資+4萬張, NOR/NAND漲價"
     },
     {
       "code": "2464",
@@ -61,11 +61,11 @@
       "lots": 0.15,
       "last_close": 173.5,
       "add_on": 155.0,
-      "stop_loss": null,
-      "tp_short": 190.0,
-      "tp_mid": 210.0,
+      "stop_loss": 145.0,
+      "tp_short": 195.0,
+      "tp_mid": 220.0,
       "verdict": "持有",
-      "reason": "漲停勿追, 警惕倍量拉抬可能爆量見高"
+      "reason": "機器人+CoWoS雙題材漲停, 跌破145減碼"
     },
     {
       "code": "2472",
@@ -73,25 +73,25 @@
       "avg_cost": 229.5,
       "lots": 0.09,
       "last_close": 307.0,
-      "add_on": 285.0,
+      "add_on": 270.0,
       "stop_loss": null,
-      "tp_short": 330.0,
-      "tp_mid": 360.0,
-      "verdict": "持有",
-      "reason": "被動元件齊噴, 短線漲多等回測再加"
+      "tp_short": 340.0,
+      "tp_mid": 380.0,
+      "verdict": "持有加碼",
+      "reason": "AI BBU+車用雙引擎, 鎖量上攻"
     },
     {
-      "code": "3481",
-      "name": "群創",
-      "avg_cost": 37.35,
-      "lots": 0.54,
-      "last_close": 45.7,
-      "add_on": null,
-      "stop_loss": 45.0,
-      "tp_short": 50.0,
-      "tp_mid": null,
-      "verdict": "減碼觀望",
-      "reason": "外資巨量出貨警訊, 建議部分停利"
+      "code": "2233",
+      "name": "宇隆",
+      "avg_cost": 377.0,
+      "lots": 0.054,
+      "last_close": 377.0,
+      "add_on": 340.0,
+      "stop_loss": null,
+      "tp_short": 410.0,
+      "tp_mid": 450.0,
+      "verdict": "持有觀望",
+      "reason": "題材熱但基本面弱+剛進場"
     },
     {
       "code": "6291",
@@ -99,12 +99,12 @@
       "avg_cost": 546.0,
       "lots": 0.037,
       "last_close": 587.0,
-      "add_on": 555.0,
+      "add_on": 540.0,
       "stop_loss": null,
       "tp_short": 650.0,
       "tp_mid": 720.0,
-      "verdict": "持有",
-      "reason": "內外盤警訊+漲多, 留意明日是否高檔開低"
+      "verdict": "持有加碼",
+      "reason": "AI光纖剛起漲+Q1 EPS 3.0 YoY+186%"
     },
     {
       "code": "3055",
@@ -112,12 +112,12 @@
       "avg_cost": 122.2,
       "lots": 0.17,
       "last_close": 119.0,
-      "add_on": 110.0,
-      "stop_loss": null,
+      "add_on": null,
+      "stop_loss": 110.0,
       "tp_short": 126.0,
       "tp_mid": 140.0,
-      "verdict": "觀望",
-      "reason": "基本面尚虧, 等量能與獲利確認"
+      "verdict": "持有觀望",
+      "reason": "基本面虧損, SiC題材待驗證"
     },
     {
       "code": "3580",
@@ -129,21 +129,21 @@
       "stop_loss": null,
       "tp_short": 125.0,
       "tp_mid": 140.0,
-      "verdict": "持有",
-      "reason": "CoWoS+FOPLP雙題材, 等Q2回升確認"
+      "verdict": "持有加碼",
+      "reason": "FOPLP/CoWoS設備Q3投產, 半導體設備佔65%"
     },
     {
       "code": "3624",
       "name": "光頡",
-      "avg_cost": 92.7,
-      "lots": 0.22,
+      "avg_cost": 86.84,
+      "lots": 2.22,
       "last_close": 93.5,
-      "add_on": 90.0,
+      "add_on": null,
       "stop_loss": null,
       "tp_short": 105.0,
       "tp_mid": 120.0,
       "verdict": "持有",
-      "reason": "被動元件強勢族群, 高量增量警惕短期賣壓"
+      "reason": "B/B 1.7+漲價, 但短線整理"
     },
     {
       "code": "6208",
@@ -151,12 +151,12 @@
       "avg_cost": 99.2,
       "lots": 0.21,
       "last_close": 97.8,
-      "add_on": 94.0,
+      "add_on": 92.0,
       "stop_loss": null,
-      "tp_short": 108.0,
-      "tp_mid": 120.0,
-      "verdict": "持有",
-      "reason": "縮量止跌, 等放量再轉強"
+      "tp_short": 110.0,
+      "tp_mid": 125.0,
+      "verdict": "持有加碼",
+      "reason": "Q1 EPS 1.90 YoY+206%, 真空設備+CoWoS題材"
     },
     {
       "code": "2351",
@@ -164,12 +164,12 @@
       "avg_cost": 184.0,
       "lots": 0.11,
       "last_close": 216.0,
-      "add_on": 205.0,
+      "add_on": 200.0,
       "stop_loss": null,
-      "tp_short": 240.0,
-      "tp_mid": 270.0,
-      "verdict": "持有",
-      "reason": "HVDC題材主流, 漲停勿追"
+      "tp_short": 245.0,
+      "tp_mid": 280.0,
+      "verdict": "持有加碼",
+      "reason": "AI導線架+均熱片放量+三大法人同買"
     },
     {
       "code": "7610",
@@ -180,22 +180,35 @@
       "add_on": null,
       "stop_loss": null,
       "tp_short": 1400.0,
-      "tp_mid": 1600.0,
+      "tp_mid": 1500.0,
       "verdict": "持有",
-      "reason": "千金股縮量震盪, 鎖好停損"
+      "reason": "鎖籌惜售, Q1 EPS 10.87超過1個股本"
     },
     {
       "code": "6174",
       "name": "安碁",
-      "avg_cost": 42.5,
+      "avg_cost": 44.43,
       "lots": 0.45,
       "last_close": 47.2,
-      "add_on": 44.0,
+      "add_on": null,
       "stop_loss": null,
-      "tp_short": 55.0,
-      "tp_mid": 60.0,
+      "tp_short": 51.0,
+      "tp_mid": 56.0,
       "verdict": "持有",
-      "reason": "漲多縮量整理, 等回測再上"
+      "reason": "資安題材+5月內2次漲停, 但PE偏高"
+    },
+    {
+      "code": "2344",
+      "name": "華邦電",
+      "avg_cost": 140.0,
+      "lots": 1.0,
+      "last_close": 141.0,
+      "add_on": 130.0,
+      "stop_loss": 125.0,
+      "tp_short": 165.0,
+      "tp_mid": 185.0,
+      "verdict": "持有加碼",
+      "reason": "DRAM大波段起漲+外資15.2萬張, 跌破125減碼"
     }
   ]
 }
