@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-27T20:39:21+08:00",
+  "generated_at": "2026-05-28T20:50:01+08:00",
   "source": "taiwan-bullish-filter",
   "stocks": [
     {
-      "code": "6182",
-      "name": "合晶",
-      "last_close": 90.2,
+      "code": "5464",
+      "name": "霖宏",
+      "last_close": 75.5,
       "add_range": [
-        79.0,
-        83.0
+        65.0,
+        70.0
       ],
-      "tp_short": 100.0,
-      "tp_mid": 115.0,
-      "verdict": "加碼",
-      "reason": "合計+30,998全市場最強+矽晶圓擴產+雙廠量產",
+      "tp_short": 80.0,
+      "tp_mid": 88.0,
+      "verdict": "持有",
+      "reason": "倍量10.7x主升+合計+418 但乖離+95%極端追高",
       "stars": {
-        "tech": 5,
-        "chip": 5,
-        "fundamental": 4
+        "tech": 4,
+        "chip": 3,
+        "fundamental": 2
       }
     },
     {
       "code": "3033",
       "name": "威健",
-      "last_close": 50.7,
+      "last_close": 50.1,
       "add_range": [
         46.0,
         49.0
       ],
       "tp_short": 55.3,
-      "tp_mid": 62.0,
+      "tp_mid": 60.0,
       "verdict": "加碼",
-      "reason": "合計+15,463次強+半導體通路+殖利率4.74%+PE合理",
+      "reason": "合計+9,273最強+EPS1.81+PE16.67+殖利率4.74%+乖離合理",
       "stars": {
         "tech": 4,
         "chip": 5,
@@ -39,39 +39,75 @@
       }
     },
     {
-      "code": "2464",
-      "name": "盟立",
-      "last_close": 177.0,
+      "code": "3577",
+      "name": "泓格",
+      "last_close": 161.0,
       "add_range": [
-        158.0,
-        168.0
+        138.0,
+        150.0
       ],
-      "tp_short": 195.0,
-      "tp_mid": 220.0,
-      "verdict": "加碼",
-      "reason": "合計+4,062+機器人/半導體雙題材+在手訂單60億",
+      "tp_short": 166.0,
+      "tp_mid": 180.0,
+      "verdict": "持有",
+      "reason": "營收YoY+90%+大紅K反彈 但乖離+88%+PE45偏高",
       "stars": {
-        "tech": 4,
-        "chip": 4,
+        "tech": 3,
+        "chip": 3,
         "fundamental": 4
       }
     },
     {
-      "code": "6166",
-      "name": "凌華",
-      "last_close": 136.0,
+      "code": "6207",
+      "name": "雷科",
+      "last_close": 105.0,
       "add_range": [
-        122.0,
-        130.0
+        92.0,
+        100.0
       ],
-      "tp_short": 145.0,
-      "tp_mid": 160.0,
-      "verdict": "加碼",
-      "reason": "Q1 EPS年增405%+邊緣AI規模化+群益目標價101",
+      "tp_short": 112.5,
+      "tp_mid": 125.0,
+      "verdict": "觀望",
+      "reason": "合計-518賣超+乖離+67%+Q1 EPS年減82%",
       "stars": {
-        "tech": 4,
-        "chip": 4,
-        "fundamental": 5
+        "tech": 3,
+        "chip": 2,
+        "fundamental": 3
+      }
+    },
+    {
+      "code": "6834",
+      "name": "天二科技",
+      "last_close": 70.5,
+      "add_range": [
+        60.0,
+        66.0
+      ],
+      "tp_short": 80.1,
+      "tp_mid": 88.0,
+      "verdict": "觀望",
+      "reason": "高位連2黑收最低+乖離+76%+PE127極高",
+      "stars": {
+        "tech": 2,
+        "chip": 3,
+        "fundamental": 2
+      }
+    },
+    {
+      "code": "6525",
+      "name": "捷敏-KY",
+      "last_close": 122.5,
+      "add_range": [
+        113.0,
+        119.0
+      ],
+      "tp_short": 138.0,
+      "tp_mid": 150.0,
+      "verdict": "觀望",
+      "reason": "連2黑量價背離+籌碼中性微賣",
+      "stars": {
+        "tech": 3,
+        "chip": 2,
+        "fundamental": 3
       }
     },
     {
@@ -79,161 +115,17 @@
       "name": "飛捷",
       "last_close": 138.5,
       "add_range": [
-        130.0,
+        129.0,
         136.0
       ],
-      "tp_short": 150.0,
-      "tp_mid": 165.0,
+      "tp_short": 146.0,
+      "tp_mid": 160.0,
       "verdict": "加碼",
-      "reason": "基本面健全+合計+1,202+Berry AI+乖離合理",
+      "reason": "EPS6.9+合計+1,980+乖離合理+Berry AI+殖利率4.23%",
       "stars": {
         "tech": 4,
         "chip": 4,
         "fundamental": 5
-      }
-    },
-    {
-      "code": "2395",
-      "name": "研華",
-      "last_close": 509.0,
-      "add_range": [
-        475.0,
-        498.0
-      ],
-      "tp_short": 545.0,
-      "tp_mid": 600.0,
-      "verdict": "加碼",
-      "reason": "IPC龍頭+NVIDIA合作Edge AI+法人估EPS 14.04創高",
-      "stars": {
-        "tech": 4,
-        "chip": 4,
-        "fundamental": 5
-      }
-    },
-    {
-      "code": "3528",
-      "name": "安馳",
-      "last_close": 103.5,
-      "add_range": [
-        86.0,
-        92.0
-      ],
-      "tp_short": 118.0,
-      "tp_mid": 132.0,
-      "verdict": "加碼",
-      "reason": "Q1營收YoY+103%+SiMa.ai+倍量主升+合計+865",
-      "stars": {
-        "tech": 4,
-        "chip": 3,
-        "fundamental": 4
-      }
-    },
-    {
-      "code": "3526",
-      "name": "凡甲",
-      "last_close": 372.0,
-      "add_range": [
-        350.0,
-        365.0
-      ],
-      "tp_short": 403.0,
-      "tp_mid": 440.0,
-      "verdict": "持有",
-      "reason": "EPS 16.97+殖利率5.78% 但前日高量隔日縮60%出貨警示",
-      "stars": {
-        "tech": 3,
-        "chip": 2,
-        "fundamental": 5
-      }
-    },
-    {
-      "code": "6526",
-      "name": "達發",
-      "last_close": 682.0,
-      "add_range": [
-        645.0,
-        675.0
-      ],
-      "tp_short": 787.0,
-      "tp_mid": 840.0,
-      "verdict": "觀望",
-      "reason": "高位連2黑+籌碼-303+逼近MA20防線 題材仍強",
-      "stars": {
-        "tech": 2,
-        "chip": 2,
-        "fundamental": 5
-      }
-    },
-    {
-      "code": "3577",
-      "name": "泓格",
-      "last_close": 146.5,
-      "add_range": [
-        125.0,
-        140.0
-      ],
-      "tp_short": 166.0,
-      "tp_mid": 180.0,
-      "verdict": "觀望",
-      "reason": "高位長黑12元重挫+乖離+74%+PE 45偏高",
-      "stars": {
-        "tech": 2,
-        "chip": 3,
-        "fundamental": 4
-      }
-    },
-    {
-      "code": "6525",
-      "name": "捷敏-KY",
-      "last_close": 129.5,
-      "add_range": [
-        117.0,
-        123.0
-      ],
-      "tp_short": 140.0,
-      "tp_mid": 155.0,
-      "verdict": "觀望",
-      "reason": "高位長黑+高量+籌碼-896 拉高出貨警示",
-      "stars": {
-        "tech": 3,
-        "chip": 1,
-        "fundamental": 3
-      }
-    },
-    {
-      "code": "6261",
-      "name": "久元",
-      "last_close": 118.0,
-      "add_range": [
-        108.0,
-        115.0
-      ],
-      "tp_short": 136.0,
-      "tp_mid": 150.0,
-      "verdict": "觀望",
-      "reason": "合計-2,841法人大賣+逼近MA20+連2跌",
-      "stars": {
-        "tech": 2,
-        "chip": 1,
-        "fundamental": 3
-      }
-    },
-    {
-      "code": "8040",
-      "name": "九暘",
-      "last_close": 113.0,
-      "add_range": [
-        100.0,
-        108.0
-      ],
-      "tp_short": 130.0,
-      "tp_mid": 145.0,
-      "verdict": "觀望",
-      "reason": "高位連3黑-13.5元+籌碼-279+乖離+72%極端",
-      "stars": {
-        "tech": 2,
-        "chip": 1,
-        "fundamental": 3
       }
     },
     {
@@ -244,10 +136,100 @@
         105.0,
         113.0
       ],
-      "tp_short": 128.0,
+      "tp_short": 122.5,
       "tp_mid": 140.0,
       "verdict": "觀望",
-      "reason": "高位長黑+上影10元+籌碼-335+營收YoY-12%",
+      "reason": "前日長黑+上影10+籌碼-287+營收YoY-12%",
+      "stars": {
+        "tech": 2,
+        "chip": 1,
+        "fundamental": 2
+      }
+    },
+    {
+      "code": "6182",
+      "name": "合晶",
+      "last_close": 90.7,
+      "add_range": [
+        80.0,
+        85.0
+      ],
+      "tp_short": 99.2,
+      "tp_mid": 110.0,
+      "verdict": "加碼",
+      "reason": "合計+24,335全市場最強+矽晶圓雙廠 但乖離+106%極端+EPS轉虧",
+      "stars": {
+        "tech": 4,
+        "chip": 5,
+        "fundamental": 3
+      }
+    },
+    {
+      "code": "2464",
+      "name": "盟立",
+      "last_close": 168.0,
+      "add_range": [
+        150.0,
+        163.0
+      ],
+      "tp_short": 184.0,
+      "tp_mid": 200.0,
+      "verdict": "持有",
+      "reason": "合計+1,541+機器人/半導體 但高位長黑+乖離+78%",
+      "stars": {
+        "tech": 3,
+        "chip": 4,
+        "fundamental": 4
+      }
+    },
+    {
+      "code": "6166",
+      "name": "凌華",
+      "last_close": 129.5,
+      "add_range": [
+        118.0,
+        127.0
+      ],
+      "tp_short": 145.0,
+      "tp_mid": 160.0,
+      "verdict": "持有",
+      "reason": "Q1 EPS年增405%+邊緣AI+合計+1063 但今日長黑11元+乖離+64%",
+      "stars": {
+        "tech": 3,
+        "chip": 4,
+        "fundamental": 5
+      }
+    },
+    {
+      "code": "6261",
+      "name": "久元",
+      "last_close": 118.0,
+      "add_range": [
+        110.0,
+        116.0
+      ],
+      "tp_short": 136.0,
+      "tp_mid": 150.0,
+      "verdict": "觀望",
+      "reason": "合計-1,468法人大賣+逼近MA20防線",
+      "stars": {
+        "tech": 2,
+        "chip": 1,
+        "fundamental": 3
+      }
+    },
+    {
+      "code": "3581",
+      "name": "博磊",
+      "last_close": 240.0,
+      "add_range": [
+        220.0,
+        232.0
+      ],
+      "tp_short": 254.0,
+      "tp_mid": 280.0,
+      "verdict": "觀望",
+      "reason": "連3黑-40元+跌破MA5+籌碼-1,219+PE極高",
       "stars": {
         "tech": 2,
         "chip": 1,
@@ -257,50 +239,132 @@
     {
       "code": "2070",
       "name": "精湛",
-      "last_close": 82.4,
+      "last_close": 75.9,
       "add_range": [
-        68.0,
+        67.0,
         73.0
       ],
-      "tp_short": 90.0,
-      "tp_mid": 100.0,
+      "tp_short": 82.9,
+      "tp_mid": 90.0,
       "verdict": "觀望",
-      "reason": "高位高量@漲停拉抬警惕+股本小+EPS YoY-23%+融資增",
+      "reason": "高量隔日縮68%出貨+籌碼-283+EPS YoY-23%",
       "stars": {
         "tech": 3,
-        "chip": 2,
-        "fundamental": 2
+        "chip": 1,
+        "fundamental": 3
       }
+    },
+    {
+      "code": "6432",
+      "name": "今展科",
+      "last_close": 70.0,
+      "add_range": [
+        57.0,
+        63.0
+      ],
+      "tp_short": 71.7,
+      "tp_mid": 80.0,
+      "verdict": "持有",
+      "reason": "連3紅倍量主升+GPU電感轉機+Q1 EPS年增60%+合計+458 但乖離+70%",
+      "stars": {
+        "tech": 4,
+        "chip": 3,
+        "fundamental": 3
+      }
+    },
+    {
+      "code": "2395",
+      "name": "研華",
+      "last_close": 490.5,
+      "add_range": [
+        357.5,
+        458.38
+      ],
+      "tp_short": 530.0,
+      "tp_mid": 564.07,
+      "verdict": "持有",
+      "reason": "技術+籌碼中性",
+      "stars": {
+        "tech": 4,
+        "chip": 2,
+        "fundamental": 5
+      },
+      "analysis_date": "2026-05-27",
+      "refreshed_at": "2026-05-28",
+      "refresh_failed": false
+    },
+    {
+      "code": "3528",
+      "name": "安馳",
+      "last_close": 113.5,
+      "add_range": [
+        76.8,
+        87.47
+      ],
+      "tp_short": 122.58,
+      "tp_mid": 130.52,
+      "verdict": "加碼",
+      "reason": "距MA60+52.84%過熱",
+      "stars": {
+        "tech": 2,
+        "chip": 4,
+        "fundamental": 4
+      },
+      "analysis_date": "2026-05-27",
+      "refreshed_at": "2026-05-28",
+      "refresh_failed": true,
+      "refresh_error": "verdict_downgraded:觀望"
+    },
+    {
+      "code": "3526",
+      "name": "凡甲",
+      "last_close": 370.0,
+      "add_range": [
+        319.0,
+        369.95
+      ],
+      "tp_short": 403.0,
+      "tp_mid": 425.5,
+      "verdict": "持有",
+      "reason": "技術+籌碼中性",
+      "stars": {
+        "tech": 4,
+        "chip": 3,
+        "fundamental": 5
+      },
+      "analysis_date": "2026-05-27",
+      "refreshed_at": "2026-05-28",
+      "refresh_failed": false
     },
     {
       "code": "3317",
       "name": "尼克森",
-      "last_close": 82.3,
+      "last_close": 82.8,
       "add_range": [
-        54.8,
-        70.3
+        55.4,
+        71.66
       ],
       "tp_short": 87.7,
-      "tp_mid": 94.64,
+      "tp_mid": 95.22,
       "verdict": "持有",
-      "reason": "距MA60+45.51%過熱",
+      "reason": "距MA60+45.01%過熱",
       "stars": {
         "tech": 2,
         "chip": 5,
         "fundamental": 3
       },
       "analysis_date": "2026-05-26",
-      "refreshed_at": "2026-05-27",
+      "refreshed_at": "2026-05-28",
       "refresh_failed": true,
       "refresh_error": "verdict_downgraded:觀望"
     },
     {
       "code": "4951",
       "name": "精拓科",
-      "last_close": 124.5,
+      "last_close": 123.0,
       "add_range": [
-        108.5,
-        122.01
+        115.0,
+        120.54
       ],
       "tp_short": 143.5,
       "tp_mid": 150.68,
@@ -312,39 +376,39 @@
         "fundamental": 5
       },
       "analysis_date": "2026-05-26",
-      "refreshed_at": "2026-05-27",
+      "refreshed_at": "2026-05-28",
       "refresh_failed": true,
       "refresh_error": "verdict_downgraded:減碼"
     },
     {
       "code": "8016",
       "name": "矽創",
-      "last_close": 301.0,
+      "last_close": 300.0,
       "add_range": [
-        219.5,
-        269.88
+        227.0,
+        273.45
       ],
       "tp_short": 305.0,
-      "tp_mid": 346.15,
+      "tp_mid": 345.0,
       "verdict": "加碼",
-      "reason": "距MA60+33.64%過熱",
+      "reason": "距MA60+32.16%過熱",
       "stars": {
         "tech": 2,
-        "chip": 3,
+        "chip": 2,
         "fundamental": 3
       },
       "analysis_date": "2026-05-22",
-      "refreshed_at": "2026-05-27",
+      "refreshed_at": "2026-05-28",
       "refresh_failed": true,
       "refresh_error": "verdict_downgraded:觀望"
     },
     {
       "code": "3162",
       "name": "精確",
-      "last_close": 83.6,
+      "last_close": 82.3,
       "add_range": [
         70.6,
-        81.93
+        80.65
       ],
       "tp_short": 97.8,
       "tp_mid": 102.69,
@@ -356,185 +420,207 @@
         "fundamental": 3
       },
       "analysis_date": "2026-05-22",
-      "refreshed_at": "2026-05-27",
+      "refreshed_at": "2026-05-28",
       "refresh_failed": true,
       "refresh_error": "verdict_downgraded:減碼"
     },
     {
       "code": "5386",
       "name": "青雲",
-      "last_close": 587.0,
+      "last_close": 575.0,
       "add_range": [
         372.0,
-        457.32
+        467.3
       ],
-      "tp_short": 603.0,
-      "tp_mid": 675.05,
+      "tp_short": 628.0,
+      "tp_mid": 661.25,
       "verdict": "加碼",
-      "reason": "距MA60+59.93%過熱",
+      "reason": "距MA60+54.06%過熱",
       "stars": {
         "tech": 2,
         "chip": 3,
         "fundamental": 5
       },
       "analysis_date": "2026-05-22",
-      "refreshed_at": "2026-05-27",
+      "refreshed_at": "2026-05-28",
       "refresh_failed": true,
       "refresh_error": "verdict_downgraded:觀望"
     },
     {
       "code": "6174",
       "name": "安碁",
-      "last_close": 46.65,
+      "last_close": 46.55,
       "add_range": [
-        29.45,
-        40.45
+        30.55,
+        41.14
       ],
       "tp_short": 51.4,
       "tp_mid": 53.97,
       "verdict": "加碼",
-      "reason": "距MA60+58.46%過熱",
+      "reason": "距MA60+56.0%過熱",
       "stars": {
         "tech": 2,
         "chip": 2,
         "fundamental": 3
       },
       "analysis_date": "2026-05-22",
-      "refreshed_at": "2026-05-27",
+      "refreshed_at": "2026-05-28",
       "refresh_failed": true,
       "refresh_error": "verdict_downgraded:觀望"
     },
     {
       "code": "3430",
       "name": "奇鈦科",
-      "last_close": 162.5,
+      "last_close": 171.0,
       "add_range": [
-        114.5,
-        160.1
+        120.5,
+        162.6
       ],
       "tp_short": 189.0,
       "tp_mid": 198.45,
       "verdict": "持有",
-      "reason": "距MA60+51.74%過熱",
+      "reason": "距MA60+57.4%過熱",
       "stars": {
         "tech": 2,
         "chip": 2,
         "fundamental": 4
       },
       "analysis_date": "2026-05-22",
-      "refreshed_at": "2026-05-27",
+      "refreshed_at": "2026-05-28",
       "refresh_failed": true,
       "refresh_error": "verdict_downgraded:觀望"
     },
     {
       "code": "6234",
       "name": "高僑",
-      "last_close": 54.2,
+      "last_close": 51.2,
       "add_range": [
         43.2,
-        53.56
+        50.18
       ],
       "tp_short": 63.3,
       "tp_mid": 66.47,
       "verdict": "持有",
-      "reason": "距MA60+41.7%過熱",
+      "reason": "跌破MA20",
       "stars": {
         "tech": 1,
         "chip": 1,
         "fundamental": 3
       },
       "analysis_date": "2026-05-18",
-      "refreshed_at": "2026-05-27",
+      "refreshed_at": "2026-05-28",
       "refresh_failed": true,
-      "refresh_error": "verdict_downgraded:觀望"
+      "refresh_error": "verdict_downgraded:減碼"
     },
     {
       "code": "3088",
       "name": "艾訊",
-      "last_close": 144.5,
+      "last_close": 140.0,
       "add_range": [
-        100.0,
-        128.15
+        104.5,
+        130.07
       ],
       "tp_short": 152.0,
-      "tp_mid": 166.17,
+      "tp_mid": 161.0,
       "verdict": "加碼",
-      "reason": "距MA60+43.57%過熱",
+      "reason": "距MA60+37.74%過熱",
       "stars": {
         "tech": 2,
-        "chip": 3,
+        "chip": 4,
         "fundamental": 5
       },
       "analysis_date": "2026-05-15",
-      "refreshed_at": "2026-05-27",
+      "refreshed_at": "2026-05-28",
       "refresh_failed": true,
       "refresh_error": "verdict_downgraded:觀望"
     },
     {
       "code": "3594",
       "name": "磐儀",
-      "last_close": 53.5,
+      "last_close": 50.8,
       "add_range": [
         47.2,
-        52.65
+        49.78
       ],
       "tp_short": 59.0,
       "tp_mid": 61.95,
       "verdict": "持有",
-      "reason": "趨勢=盤整",
+      "reason": "跌破MA20",
       "stars": {
-        "tech": 3,
+        "tech": 2,
         "chip": 4,
         "fundamental": 3
       },
       "analysis_date": "2026-05-14",
-      "refreshed_at": "2026-05-27",
+      "refreshed_at": "2026-05-28",
       "refresh_failed": true,
-      "refresh_error": "verdict_downgraded:觀望"
+      "refresh_error": "verdict_downgraded:減碼"
     },
     {
       "code": "4721",
       "name": "美琪瑪",
-      "last_close": 90.4,
+      "last_close": 87.0,
       "add_range": [
         81.5,
-        90.28
+        85.26
       ],
       "tp_short": 98.0,
-      "tp_mid": 103.96,
+      "tp_mid": 102.9,
       "verdict": "持有",
-      "reason": "趨勢=盤整",
+      "reason": "跌破MA20",
       "stars": {
-        "tech": 3,
+        "tech": 2,
         "chip": 4,
         "fundamental": 4
       },
       "analysis_date": "2026-05-14",
-      "refreshed_at": "2026-05-27",
+      "refreshed_at": "2026-05-28",
       "refresh_failed": true,
-      "refresh_error": "verdict_downgraded:觀望"
+      "refresh_error": "verdict_downgraded:減碼"
     },
     {
-      "code": "3388",
-      "name": "崇越電",
-      "last_close": 101.0,
+      "code": "6526",
+      "name": "達發",
+      "last_close": 660.0,
       "add_range": [
-        92.7,
-        98.98
+        541.0,
+        646.8
       ],
-      "tp_short": 131.5,
-      "tp_mid": 138.08,
-      "verdict": "加碼",
+      "tp_short": 787.0,
+      "tp_mid": 826.35,
+      "verdict": "持有",
       "reason": "跌破MA20",
+      "stars": {
+        "tech": 3,
+        "chip": 2,
+        "fundamental": 3
+      },
+      "analysis_date": "2026-05-25",
+      "refreshed_at": "2026-05-28",
+      "refresh_failed": true,
+      "refresh_error": "verdict_downgraded:減碼"
+    },
+    {
+      "code": "8040",
+      "name": "九暘",
+      "last_close": 109.5,
+      "add_range": [
+        67.6,
+        92.42
+      ],
+      "tp_short": 130.5,
+      "tp_mid": 137.03,
+      "verdict": "持有",
+      "reason": "距MA60+63.87%過熱",
       "stars": {
         "tech": 2,
         "chip": 2,
         "fundamental": 3
       },
-      "analysis_date": "2026-05-13",
-      "refreshed_at": "2026-05-27",
+      "analysis_date": "2026-05-21",
+      "refreshed_at": "2026-05-28",
       "refresh_failed": true,
-      "refresh_error": "verdict_downgraded:減碼"
+      "refresh_error": "verdict_downgraded:觀望"
     }
   ]
 }
