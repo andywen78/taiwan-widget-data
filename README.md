@@ -9,8 +9,11 @@ the raw URL of this file and uses it as the source for its 觀察
 (watchlist) screen, firing a notification when the live price drops
 into an entry range.
 
-Schema is documented in the `taiwan-bullish-filter` SKILL.md
-step 3-6.
+Also carries `hunter_top5.json` (daily top-5 strong-stock screening
+picks for the app's 獵手 page). Schema is documented in the
+`taiwan-bullish-filter` SKILL.md step 3-6.
 
 This repo is intentionally public so the app can fetch the JSON
-without authentication. It contains only data, no code or secrets.
+without authentication. It contains **only non-personal screening
+data** — no code, no secrets, and **no personal holdings or trading
+positions** (those stay local and are git-ignored).
