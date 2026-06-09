@@ -1,77 +1,95 @@
 {
-  "generated_at": "2026-06-08T20:39:01+08:00",
+  "generated_at": "2026-06-09T20:35:50+08:00",
   "source": "taiwan-bullish-filter",
   "stocks": [
     {
-      "code": "6166",
-      "name": "凌華",
-      "last_close": 125.0,
+      "code": "5464",
+      "name": "霖宏",
+      "last_close": 70.1,
       "add_range": [
-        120.0,
-        123.0
+        66.0,
+        68.5
       ],
-      "tp_short": 133.0,
-      "tp_mid": 145.0,
-      "verdict": "加碼",
-      "reason": "籌碼+1310+Q1 EPS年增405%+站穩MA20",
+      "tp_short": 75.5,
+      "tp_mid": 83.0,
+      "verdict": "觀望",
+      "reason": "PCB虧損+三大法人5日賣超774+乖離60逾56%過熱",
+      "stars": {
+        "tech": 2,
+        "chip": 1,
+        "fundamental": 1
+      }
+    },
+    {
+      "code": "3033",
+      "name": "威健",
+      "last_close": 51.0,
+      "add_range": [
+        49.0,
+        50.5
+      ],
+      "tp_short": 55.3,
+      "tp_mid": 58.0,
+      "verdict": "持有",
+      "reason": "多頭排列站穩MA20+外資5日買1840張+通路營收回溫EPS1.81",
       "stars": {
         "tech": 4,
-        "chip": 4,
-        "fundamental": 4
+        "chip": 2,
+        "fundamental": 3
       }
     },
     {
-      "code": "8255",
-      "name": "朋程",
-      "last_close": 163.0,
+      "code": "3577",
+      "name": "泓格",
+      "last_close": 140.5,
       "add_range": [
-        157.0,
-        162.0
+        136.0,
+        138.5
       ],
-      "tp_short": 176.0,
-      "tp_mid": 190.0,
+      "tp_short": 157.5,
+      "tp_mid": 173.0,
       "verdict": "持有",
-      "reason": "EPS6.32+Q1營益+119%+籌碼買617,短線跌破MA20待站回",
+      "reason": "工業電腦EPS年增46%+法人小買401,惟乖離大需防回檔",
       "stars": {
         "tech": 3,
-        "chip": 4,
+        "chip": 2,
         "fundamental": 4
       }
     },
     {
-      "code": "6182",
-      "name": "合晶",
-      "last_close": 80.0,
+      "code": "6207",
+      "name": "雷科",
+      "last_close": 122.5,
       "add_range": [
-        75.0,
-        78.0
+        105.0,
+        112.0
       ],
-      "tp_short": 90.0,
-      "tp_mid": 99.0,
-      "verdict": "加碼",
-      "reason": "外資+4178合計+2383全市場最強+高量柱吸籌,乖離MA60+57%須防回測",
+      "tp_short": 139.0,
+      "tp_mid": 153.0,
+      "verdict": "減碼",
+      "reason": "倍量黑K崩跌+乖離60逾67%嚴重過熱+法人賣超426",
       "stars": {
-        "tech": 3,
-        "chip": 5,
+        "tech": 2,
+        "chip": 1,
         "fundamental": 2
       }
     },
     {
-      "code": "6206",
-      "name": "飛捷",
-      "last_close": 134.5,
+      "code": "6834",
+      "name": "天二科技",
+      "last_close": 75.0,
       "add_range": [
-        128.0,
-        134.0
+        70.0,
+        72.5
       ],
-      "tp_short": 142.0,
-      "tp_mid": 150.0,
-      "verdict": "持有",
-      "reason": "EPS6.9基本面最強+PE18合理+Berry AI,法人小賣749但投信回補",
+      "tp_short": 80.0,
+      "tp_mid": 85.0,
+      "verdict": "觀望",
+      "reason": "PE127偏高+乖離60逾63%過熱,惟今日強紅K收最高籌碼買436",
       "stars": {
         "tech": 3,
         "chip": 2,
-        "fundamental": 5
+        "fundamental": 2
       }
     },
     {
@@ -79,175 +97,121 @@
       "name": "捷敏-KY",
       "last_close": 119.0,
       "add_range": [
-        114.0,
-        117.0
+        116.0,
+        118.0
       ],
-      "tp_short": 130.0,
-      "tp_mid": 138.0,
+      "tp_short": 123.0,
+      "tp_mid": 130.0,
       "verdict": "持有",
-      "reason": "站穩MA20+功率半導體封測穩健+殖利率4.13%,法人輕微賣超",
-      "stars": {
-        "tech": 4,
-        "chip": 2,
-        "fundamental": 4
-      }
-    },
-    {
-      "code": "3577",
-      "name": "泓格",
-      "last_close": 136.0,
-      "add_range": [
-        128.0,
-        134.0
-      ],
-      "tp_short": 148.0,
-      "tp_mid": 162.0,
-      "verdict": "持有",
-      "reason": "站回MA20+籌碼買585+營收YoY+90%,乖離MA60+42%偏高",
+      "reason": "貼MA20+縮量止跌+功率封測PE17估值合理",
       "stars": {
         "tech": 3,
-        "chip": 3,
+        "chip": 1,
         "fundamental": 4
-      }
-    },
-    {
-      "code": "6261",
-      "name": "久元",
-      "last_close": 101.5,
-      "add_range": [
-        96.0,
-        100.0
-      ],
-      "tp_short": 110.0,
-      "tp_mid": 115.0,
-      "verdict": "觀望",
-      "reason": "籌碼逆勢買2229+CPO題材,但跌破MA20盤整待確認",
-      "stars": {
-        "tech": 2,
-        "chip": 4,
-        "fundamental": 4
-      }
-    },
-    {
-      "code": "6834",
-      "name": "天二科技",
-      "last_close": 68.2,
-      "add_range": [
-        64.0,
-        66.0
-      ],
-      "tp_short": 73.0,
-      "tp_mid": 78.0,
-      "verdict": "持有",
-      "reason": "站穩MA20+籌碼買666,乖離MA60+51%過熱+PE127偏高",
-      "stars": {
-        "tech": 3,
-        "chip": 3,
-        "fundamental": 2
-      }
-    },
-    {
-      "code": "2070",
-      "name": "精湛",
-      "last_close": 60.3,
-      "add_range": [
-        56.0,
-        59.0
-      ],
-      "tp_short": 66.0,
-      "tp_mid": 69.0,
-      "verdict": "觀望",
-      "reason": "縮量止跌+籌碼小買,但跌破MA20盤整+基本面下滑",
-      "stars": {
-        "tech": 2,
-        "chip": 3,
-        "fundamental": 3
       }
     },
     {
       "code": "5299",
       "name": "杰力",
-      "last_close": 100.5,
+      "last_close": 101.0,
       "add_range": [
         94.0,
-        98.0
+        99.0
       ],
       "tp_short": 108.0,
-      "tp_mid": 114.0,
+      "tp_mid": 115.0,
       "verdict": "減碼",
-      "reason": "跌破MA20+盤整+2025營收衰退12%,急漲後拉回題材性",
+      "reason": "跌破MA20+2025營收年減12%+題材股拉高出貨疑慮",
       "stars": {
         "tech": 2,
-        "chip": 3,
+        "chip": 1,
         "fundamental": 2
       }
     },
     {
-      "code": "3033",
-      "name": "威健",
-      "last_close": 47.9,
+      "code": "8255",
+      "name": "朋程",
+      "last_close": 168.0,
       "add_range": [
-        44.0,
-        46.0
+        160.0,
+        167.0
       ],
-      "tp_short": 49.3,
-      "tp_mid": 52.0,
-      "verdict": "減碼",
-      "reason": "倍量收黑+法人合計賣2969拉高出貨,跌破MA20",
+      "tp_short": 180.0,
+      "tp_mid": 199.0,
+      "verdict": "觀望",
+      "reason": "回測MA20+增量下跌+外資賣超,須守167",
       "stars": {
         "tech": 2,
         "chip": 1,
-        "fundamental": 3
+        "fundamental": 4
+      }
+    },
+    {
+      "code": "6206",
+      "name": "飛捷",
+      "last_close": 138.5,
+      "add_range": [
+        136.0,
+        138.0
+      ],
+      "tp_short": 142.0,
+      "tp_mid": 150.0,
+      "verdict": "持有",
+      "reason": "貼MA20縮量止跌+POS/Berry AI基本面最強EPS6.9 PE18",
+      "stars": {
+        "tech": 4,
+        "chip": 1,
+        "fundamental": 5
+      }
+    },
+    {
+      "code": "6182",
+      "name": "合晶",
+      "last_close": 87.2,
+      "add_range": [
+        80.0,
+        85.0
+      ],
+      "tp_short": 95.0,
+      "tp_mid": 101.5,
+      "verdict": "持有",
+      "reason": "外資5日大買4127張合計+1840+矽晶圓新廠轉機,惟乖離60逾68%過熱",
+      "stars": {
+        "tech": 3,
+        "chip": 3,
+        "fundamental": 2
       }
     },
     {
       "code": "3581",
       "name": "博磊",
-      "last_close": 156.5,
+      "last_close": 141.0,
       "add_range": [
-        150.0,
-        155.0
+        134.0,
+        140.0
       ],
-      "tp_short": 173.0,
-      "tp_mid": 191.0,
+      "tp_short": 155.0,
+      "tp_mid": 173.0,
       "verdict": "減碼",
-      "reason": "自280崩至156跌破MA20達-30%+跌停鎖死",
+      "reason": "連續跌停跌破所有均線,自299崩跌中",
       "stars": {
         "tech": 1,
-        "chip": 3,
-        "fundamental": 2
-      }
-    },
-    {
-      "code": "6207",
-      "name": "雷科",
-      "last_close": 130.5,
-      "add_range": [
-        108.0,
-        118.0
-      ],
-      "tp_short": 144.0,
-      "tp_mid": 153.0,
-      "verdict": "減碼",
-      "reason": "乖離MA60+82%極端過熱+暴量後縮95%量價背離+籌碼賣1747",
-      "stars": {
-        "tech": 2,
-        "chip": 1,
+        "chip": 2,
         "fundamental": 2
       }
     },
     {
       "code": "2464",
       "name": "盟立",
-      "last_close": 148.5,
+      "last_close": 150.0,
       "add_range": [
-        140.0,
-        146.0
+        138.0,
+        148.0
       ],
       "tp_short": 165.0,
-      "tp_mid": 175.0,
+      "tp_mid": 185.0,
       "verdict": "減碼",
-      "reason": "外資狂賣4233合計-4699全榜最大賣超+今跌停,籌碼大逃",
+      "reason": "跌破MA20+爆量殺盤+外資5日賣超1962張",
       "stars": {
         "tech": 2,
         "chip": 1,
@@ -255,22 +219,79 @@
       }
     },
     {
-      "code": "5464",
-      "name": "霖宏",
-      "last_close": 63.8,
+      "code": "6166",
+      "name": "凌華",
+      "last_close": 137.5,
+      "add_range": [
+        128.0,
+        134.0
+      ],
+      "tp_short": 145.0,
+      "tp_mid": 155.0,
+      "verdict": "持有",
+      "reason": "今日強紅K創高+外資買1310張+Q1 EPS年增405%邊緣AI",
+      "stars": {
+        "tech": 4,
+        "chip": 3,
+        "fundamental": 5
+      }
+    },
+    {
+      "code": "6261",
+      "name": "久元",
+      "last_close": 99.9,
+      "add_range": [
+        96.0,
+        100.0
+      ],
+      "tp_short": 110.0,
+      "tp_mid": 120.0,
+      "verdict": "持有",
+      "reason": "外資5日大買2893張+低檔高量吸籌+CPO題材,守MA60",
+      "stars": {
+        "tech": 3,
+        "chip": 4,
+        "fundamental": 4
+      }
+    },
+    {
+      "code": "2070",
+      "name": "精湛",
+      "last_close": 63.3,
       "add_range": [
         60.0,
-        62.0
+        63.0
       ],
-      "tp_short": 68.5,
-      "tp_mid": 72.0,
-      "verdict": "減碼",
-      "reason": "自83摔至63.8跌破MA20+籌碼賣1113+2025虧損",
+      "tp_short": 69.0,
+      "tp_mid": 75.0,
+      "verdict": "觀望",
+      "reason": "跌破MA20+小型光學檢測題材股波動大,惟縮量止跌",
       "stars": {
         "tech": 2,
-        "chip": 1,
-        "fundamental": 1
+        "chip": 2,
+        "fundamental": 3
       }
+    },
+    {
+      "code": "2395",
+      "name": "研華",
+      "last_close": 489.5,
+      "add_range": [
+        439.0,
+        486.6
+      ],
+      "tp_short": 539.0,
+      "tp_mid": 565.95,
+      "verdict": "加碼",
+      "reason": "法人5日買656張",
+      "stars": {
+        "tech": 4,
+        "chip": 4,
+        "fundamental": 5
+      },
+      "analysis_date": "2026-05-27",
+      "refreshed_at": "2026-06-09",
+      "refresh_failed": false
     }
   ]
 }
