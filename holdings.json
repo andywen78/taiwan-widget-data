@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T23:55:11+08:00",
+  "generated_at": "2026-06-24T20:00:00+08:00",
   "source": "taiwan-stock",
   "holdings": [
     {
@@ -7,117 +7,117 @@
       "name": "東捷",
       "avg_cost": 148.0,
       "lots": 1,
-      "last_close": 156.0,
-      "add_on": 155.0,
+      "last_close": 152.0,
+      "add_on": 150.0,
       "stop_loss": 130.0,
-      "tp_short": 172.0,
-      "tp_mid": 189.5,
+      "tp_short": 168.0,
+      "tp_mid": 185.0,
       "verdict": "持有觀望",
-      "reason": "多頭排列高開低走，等MA20附近縮量再加"
+      "reason": "縮量守穩MA20，等量能回溫確認方向"
     },
     {
       "code": "2356",
       "name": "英業達",
       "avg_cost": 75.4,
       "lots": 1,
-      "last_close": 66.1,
+      "last_close": 66.4,
       "add_on": null,
       "stop_loss": 65.0,
-      "tp_short": 71.0,
+      "tp_short": 70.0,
       "tp_mid": null,
-      "verdict": "減碼觀望",
-      "reason": "跌破均價，法人重賣，反彈69~71元先減碼"
+      "verdict": "觀望",
+      "reason": "籌碼外資+投信雙賣超嚴重，跌破65元停損"
     },
     {
       "code": "5285",
       "name": "界霖",
       "avg_cost": 98.45,
       "lots": 2,
-      "last_close": 100.0,
-      "add_on": 95.0,
+      "last_close": 110.0,
+      "add_on": 108.0,
       "stop_loss": 86.0,
-      "tp_short": 110.0,
-      "tp_mid": 120.0,
-      "verdict": "持有",
-      "reason": "多頭排列強勢，6/25除息1.5元，勿追高等回測MA20"
+      "tp_short": 120.0,
+      "tp_mid": 135.0,
+      "verdict": "加碼",
+      "reason": "漲停+報價調漲題材+基本面轉機，大盤殺盤中逆勢最強"
     },
     {
       "code": "6414",
       "name": "樺漢",
       "avg_cost": 382.0,
       "lots": 0.53,
-      "last_close": 377.5,
+      "last_close": 371.0,
       "add_on": null,
       "stop_loss": 360.0,
-      "tp_short": 388.0,
-      "tp_mid": 412.0,
-      "verdict": "持有觀望",
-      "reason": "纏論頂背馳訊號，守360元，等站上388再說"
+      "tp_short": 395.0,
+      "tp_mid": null,
+      "verdict": "觀望",
+      "reason": "纏論頂背馳+技術跌破MA20，等轉強訊號"
     },
     {
       "code": "3481",
       "name": "群創",
       "avg_cost": 52.79,
       "lots": 4,
-      "last_close": 66.0,
-      "add_on": 65.0,
+      "last_close": 69.4,
+      "add_on": 68.0,
       "stop_loss": null,
-      "tp_short": 70.1,
-      "tp_mid": 80.0,
-      "verdict": "持有",
-      "reason": "投信積極護盤，外資賣壓需持續觀察，回測60~65可加"
+      "tp_short": 78.0,
+      "tp_mid": 85.0,
+      "verdict": "持有觀望",
+      "reason": "大盤重挫逆勢強攻+5.15%，技術強；但外資猛殺高點謹慎"
     },
     {
       "code": "2472",
       "name": "立隆電",
       "avg_cost": 229.5,
       "lots": 0.9,
-      "last_close": 363.0,
-      "add_on": 362.0,
+      "last_close": 361.0,
+      "add_on": null,
       "stop_loss": 334.0,
       "tp_short": 400.0,
-      "tp_mid": 432.0,
-      "verdict": "持有觀望",
-      "reason": "頂背馳+今急跌至MA20，守334是關鍵，6/24股東會"
+      "tp_mid": null,
+      "verdict": "觀望",
+      "reason": "纏論1S賣點+私募增資不確定性，跌破334減碼"
     },
     {
       "code": "7610",
       "name": "聯友金屬-創",
       "avg_cost": 1375.0,
       "lots": 0.35,
-      "last_close": 2415.0,
-      "add_on": 2200.0,
+      "last_close": 2360.0,
+      "add_on": 2250.0,
       "stop_loss": 1490.0,
       "tp_short": 2545.0,
       "tp_mid": 3000.0,
       "verdict": "持有",
-      "reason": "趨勢最強，鎢金屬題材強勁，等回測1915~2200再加"
+      "reason": "纏論多頭延伸，鎢稀金屬題材，等放量確認突破2545"
     },
     {
       "code": "6488",
       "name": "環球晶",
       "avg_cost": 938.0,
       "lots": 0.22,
-      "last_close": 1010.0,
-      "add_on": 1010.0,
-      "stop_loss": 745.0,
-      "tp_short": 1170.0,
-      "tp_mid": 1300.0,
-      "verdict": "持有",
-      "reason": "法人雙買超強勁，今急跌-9.4%是技術修正機會"
+      "last_close": 965.0,
+      "add_on": 965.0,
+      "stop_loss": 730.0,
+      "tp_short": 1100.0,
+      "tp_mid": 1170.0,
+      "verdict": "加碼",
+      "reason": "外資+投信雙買，纏論突破中樞，接近均價可分批加碼"
     },
     {
       "code": "6531",
       "name": "愛普",
       "avg_cost": 1233.0,
       "lots": 0.66,
-      "last_close": 1050.0,
-      "add_on": 1050.0,
-      "stop_loss": 876.0,
-      "tp_short": 1210.0,
-      "tp_mid": 1305.0,
-      "verdict": "持有觀望",
-      "reason": "均價1233仍在水下，盤整震盪，等突破1150確認"
+      "last_close": 1070.0,
+      "add_on": null,
+      "stop_loss": 1000.0,
+      "tp_short": 1150.0,
+      "tp_mid": null,
+      "verdict": "觀望",
+      "reason": "量價背離+外資賣超，等突破1150中樞上沿再動作"
     }
   ]
 }
