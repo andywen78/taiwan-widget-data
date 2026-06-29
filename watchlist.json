@@ -1,127 +1,109 @@
 {
-  "generated_at": "2026-06-19T20:38:32+08:00",
+  "generated_at": "2026-06-29T20:41:07+08:00",
   "source": "taiwan-bullish-filter",
   "stocks": [
     {
-      "code": "4923",
-      "name": "力士",
-      "last_close": 57.7,
+      "code": "3114",
+      "name": "好德",
+      "last_close": 47.65,
       "add_range": [
-        46.43,
-        51.3
+        43.0,
+        45.0
       ],
-      "tp_short": 62.0,
-      "tp_mid": 67.0,
+      "tp_short": 52.0,
+      "tp_mid": 58.0,
       "verdict": "觀望",
-      "reason": "本業虧損+高位高量柱+乖離MA60+47%",
+      "reason": "高位縮量+外資賣超+乖離MA60+46%",
       "stars": {
-        "tech": 3,
-        "chip": 3,
-        "fundamental": 1
-      }
-    },
-    {
-      "code": "3441",
-      "name": "聯一光",
-      "last_close": 92.3,
-      "add_range": [
-        62.69,
-        81.22
-      ],
-      "tp_short": 94.0,
-      "tp_mid": 105.0,
-      "verdict": "觀望",
-      "reason": "乖離MA60+107%過熱+外資賣233",
-      "stars": {
-        "tech": 3,
-        "chip": 2,
+        "tech": 2,
+        "chip": 1,
         "fundamental": 3
       }
     },
     {
-      "code": "5011",
-      "name": "久陽",
-      "last_close": 21.6,
+      "code": "2483",
+      "name": "百容",
+      "last_close": 55.7,
       "add_range": [
-        18.64,
-        19.58
+        50.0,
+        52.0
       ],
-      "tp_short": 22.1,
-      "tp_mid": 24.0,
+      "tp_short": 58.0,
+      "tp_mid": 65.0,
       "verdict": "觀望",
-      "reason": "量價背離+本業營收年減17%",
+      "reason": "乖離MA60+99%極度過熱，PE60偏高",
       "stars": {
-        "tech": 3,
-        "chip": 4,
+        "tech": 2,
+        "chip": 3,
         "fundamental": 2
       }
     },
     {
-      "code": "6207",
-      "name": "雷科",
-      "last_close": 165.5,
+      "code": "6270",
+      "name": "倍微",
+      "last_close": 39.0,
       "add_range": [
-        127.76,
-        147.8
+        35.0,
+        37.0
       ],
-      "tp_short": 171.0,
-      "tp_mid": 185.0,
+      "tp_short": 43.0,
+      "tp_mid": 46.0,
       "verdict": "觀望",
-      "reason": "乖離MA60+98%+高位高量柱法人轉中性",
+      "reason": "外資大賣+倍量後急縮+高位出貨形態",
       "stars": {
-        "tech": 3,
-        "chip": 3,
+        "tech": 2,
+        "chip": 1,
         "fundamental": 3
       }
     },
     {
-      "code": "2375",
-      "name": "凱美",
-      "last_close": 219.0,
+      "code": "2883",
+      "name": "凱基金",
+      "last_close": 29.65,
       "add_range": [
-        163.05,
-        192.4
+        28.0,
+        29.0
       ],
-      "tp_short": 237.0,
-      "tp_mid": 260.0,
-      "verdict": "持有",
-      "reason": "外資+1,425鋁電容AI縮量洗盤續強",
+      "tp_short": 31.2,
+      "tp_mid": 33.0,
+      "verdict": "加碼",
+      "reason": "外資+投信合買2.1萬張+PE17合理+獲利動能強",
       "stars": {
-        "tech": 4,
-        "chip": 4,
-        "fundamental": 3
+        "tech": 3,
+        "chip": 5,
+        "fundamental": 4
       }
     },
     {
       "code": "8105",
       "name": "凌巨",
-      "last_close": 21.9,
+      "last_close": 22.9,
       "add_range": [
-        19.76,
-        21.0
+        21.0,
+        22.0
       ],
-      "tp_short": 22.95,
-      "tp_mid": 25.0,
-      "verdict": "持有",
-      "reason": "法人+519乖離溫和Q1轉盈轉機",
+      "tp_short": 25.0,
+      "tp_mid": 27.0,
+      "verdict": "觀望",
+      "reason": "外資大賣3000張+2025仍虧，轉機尚待確認",
       "stars": {
         "tech": 3,
-        "chip": 3,
+        "chip": 1,
         "fundamental": 2
       }
     },
     {
       "code": "6155",
       "name": "鈞寶",
-      "last_close": 98.5,
+      "last_close": 84.2,
       "add_range": [
-        75.1,
-        89.58
+        82.0,
+        84.0
       ],
-      "tp_short": 106.0,
-      "tp_mid": 113.0,
+      "tp_short": 93.0,
+      "tp_mid": 100.0,
       "verdict": "觀望",
-      "reason": "PE175獲利年減57%+外資賣518",
+      "reason": "PE175倍嚴重偏高，Q1 EPS年減57%獲利衰退",
       "stars": {
         "tech": 3,
         "chip": 2,
@@ -129,107 +111,107 @@
       }
     },
     {
-      "code": "2352",
-      "name": "佳世達",
-      "last_close": 30.85,
+      "code": "3059",
+      "name": "華晶科",
+      "last_close": 48.4,
       "add_range": [
-        27.3,
-        30.34
+        47.0,
+        48.0
       ],
-      "tp_short": 35.55,
+      "tp_short": 53.0,
+      "tp_mid": 56.0,
+      "verdict": "觀望",
+      "reason": "外資大賣3463張+盤整格局+量價背離",
+      "stars": {
+        "tech": 2,
+        "chip": 1,
+        "fundamental": 3
+      }
+    },
+    {
+      "code": "3550",
+      "name": "聯穎",
+      "last_close": 30.45,
+      "add_range": [
+        28.5,
+        30.0
+      ],
+      "tp_short": 35.0,
       "tp_mid": 38.0,
-      "verdict": "加碼",
-      "reason": "外資投信雙買+2,225谷底回升乖離最低",
-      "stars": {
-        "tech": 4,
-        "chip": 5,
-        "fundamental": 3
-      }
-    },
-    {
-      "code": "6214",
-      "name": "精誠",
-      "last_close": 142.0,
-      "add_range": [
-        134.0,
-        140.43
-      ],
-      "tp_short": 162.0,
-      "tp_mid": 175.0,
-      "verdict": "持有",
-      "reason": "資訊龍頭EPS7.91估值合理惟外資賣2,538",
-      "stars": {
-        "tech": 4,
-        "chip": 2,
-        "fundamental": 5
-      }
-    },
-    {
-      "code": "8043",
-      "name": "蜜望實",
-      "last_close": 226.5,
-      "add_range": [
-        167.55,
-        208.9
-      ],
-      "tp_short": 239.5,
-      "tp_mid": 255.0,
       "verdict": "觀望",
-      "reason": "乖離MA60+99%+長上影+外資賣357",
+      "reason": "2025虧損公司轉機中，外資賣超，等籌碼轉向",
       "stars": {
         "tech": 3,
-        "chip": 2,
-        "fundamental": 3
-      }
-    },
-    {
-      "code": "2061",
-      "name": "風青",
-      "last_close": 52.8,
-      "add_range": [
-        37.91,
-        44.09
-      ],
-      "tp_short": 57.0,
-      "tp_mid": 61.0,
-      "verdict": "觀望",
-      "reason": "乖離MA60+112%+高量柱拉高轉機投機",
-      "stars": {
-        "tech": 3,
-        "chip": 2,
+        "chip": 1,
         "fundamental": 2
       }
     },
     {
       "code": "2484",
       "name": "希華",
-      "last_close": 71.2,
+      "last_close": 69.2,
       "add_range": [
-        58.54,
-        70.22
+        65.0,
+        67.0
       ],
-      "tp_short": 76.1,
+      "tp_short": 76.0,
       "tp_mid": 82.0,
       "verdict": "觀望",
-      "reason": "外資賣1,216+PE96+營收年減",
+      "reason": "今急殺7.6元+PE104偏高+營收年減，外資雖買短線風險高",
       "stars": {
-        "tech": 3,
-        "chip": 2,
+        "tech": 2,
+        "chip": 3,
         "fundamental": 2
       }
     },
     {
-      "code": "3090",
-      "name": "日電貿",
-      "last_close": 332.5,
+      "code": "3362",
+      "name": "先進光",
+      "last_close": 182.5,
       "add_range": [
-        239.68,
-        289.5
+        170.0,
+        175.0
       ],
-      "tp_short": 350.0,
-      "tp_mid": 380.0,
+      "tp_short": 200.0,
+      "tp_mid": 210.0,
       "verdict": "觀望",
-      "reason": "外資大賣9,718投信對作+乖離MA60+116%",
+      "reason": "連年虧損Q1更差，AI題材未轉獲利，外資賣超",
+      "stars": {
+        "tech": 3,
+        "chip": 1,
+        "fundamental": 1
+      }
+    },
+    {
+      "code": "6182",
+      "name": "合晶",
+      "last_close": 112.0,
+      "add_range": [
+        100.0,
+        105.0
+      ],
+      "tp_short": 125.0,
+      "tp_mid": 132.0,
+      "verdict": "減碼",
+      "reason": "外資大賣11425張，EPS近零，乖離MA60+66%，高位急殺",
+      "stars": {
+        "tech": 2,
+        "chip": 1,
+        "fundamental": 1
+      }
+    },
+    {
+      "code": "2478",
+      "name": "大毅",
+      "last_close": 205.0,
+      "add_range": [
+        195.0,
+        200.0
+      ],
+      "tp_short": 235.0,
+      "tp_mid": 250.0,
+      "verdict": "持有",
+      "reason": "外資買超+EPS成長+漲價題材，乖離MA60+74%嚴重過熱需設停損",
       "stars": {
         "tech": 3,
         "chip": 3,
@@ -237,39 +219,21 @@
       }
     },
     {
-      "code": "2478",
-      "name": "大毅",
-      "last_close": 234.0,
+      "code": "8021",
+      "name": "尖點",
+      "last_close": 522.0,
       "add_range": [
-        157.95,
-        205.7
+        515.0,
+        525.0
       ],
-      "tp_short": 241.0,
-      "tp_mid": 260.0,
-      "verdict": "觀望",
-      "reason": "乖離MA60+131%最熱+倍量黑K出貨惟外資+2,809",
+      "tp_short": 565.0,
+      "tp_mid": 600.0,
+      "verdict": "加碼",
+      "reason": "EPS爆發225%+前5月營收年增61%+AI龍頭+低量見底+除息前佈局",
       "stars": {
         "tech": 3,
-        "chip": 5,
+        "chip": 3,
         "fundamental": 4
-      }
-    },
-    {
-      "code": "6834",
-      "name": "天二科技",
-      "last_close": 101.5,
-      "add_range": [
-        78.27,
-        90.58
-      ],
-      "tp_short": 108.0,
-      "tp_mid": 117.0,
-      "verdict": "觀望",
-      "reason": "外資賣2,859+PE127+乖離MA60+94%",
-      "stars": {
-        "tech": 3,
-        "chip": 1,
-        "fundamental": 2
       }
     }
   ]
