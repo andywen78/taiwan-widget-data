@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T20:11:51+08:00",
+  "generated_at": "2026-07-01T20:06:14+08:00",
   "source": "taiwan-stock",
   "holdings": [
     {
@@ -8,77 +8,77 @@
       "avg_cost": 1053.85,
       "lots": 65,
       "last_close": 1140.0,
-      "add_on": 1080.0,
+      "add_on": 979.0,
       "stop_loss": null,
       "tp_short": 1155.0,
-      "tp_mid": 1300.0,
+      "tp_mid": 1220.0,
       "verdict": "持有觀望",
-      "reason": "壓力位1155在前，等突破確認後加碼"
+      "reason": "漲價題材強但漲多乖離大，今日長上影黑K留意短線拉回"
     },
     {
       "code": "6990",
       "name": "華鉬",
       "avg_cost": 194.88,
       "lots": 506,
-      "last_close": 170.0,
+      "last_close": 161.0,
       "add_on": null,
       "stop_loss": null,
-      "tp_short": 190.0,
+      "tp_short": null,
       "tp_mid": null,
       "verdict": "觀望",
-      "reason": "持倉-12.8%，無技術資料，注意流動性"
+      "reason": "興櫃技術資料不足，以基本面題材為主，注意流動性風險"
     },
     {
       "code": "2303",
       "name": "聯電",
       "avg_cost": 179.75,
       "lots": 2,
-      "last_close": 164.5,
-      "add_on": null,
+      "last_close": 169.0,
+      "add_on": 160.0,
       "stop_loss": null,
-      "tp_short": 175.0,
-      "tp_mid": 185.0,
+      "tp_short": 186.0,
+      "tp_mid": null,
       "verdict": "持有觀望",
-      "reason": "ADR溢價有支撐，投信賣壓+纏論背馳，等籌碼穩定"
+      "reason": "漲價+矽光子題材仍強，惟頂背馳訊號浮現，投信同步調節"
     },
     {
       "code": "3481",
       "name": "群創",
       "avg_cost": 71.7,
       "lots": 3,
-      "last_close": 68.7,
-      "add_on": null,
-      "stop_loss": 64.0,
-      "tp_short": 72.6,
-      "tp_mid": 78.0,
-      "verdict": "持有觀望",
-      "reason": "縮量洗盤，外資大賣+背馳，跌破64.0減碼"
+      "last_close": 67.4,
+      "add_on": 67.0,
+      "stop_loss": null,
+      "tp_short": 73.0,
+      "tp_mid": null,
+      "verdict": "減碼觀望",
+      "reason": "外資5日大幅調節-14.5萬張+頂背馳訊號，短線動能轉弱"
     },
     {
       "code": "5328",
       "name": "華容",
       "avg_cost": 62.1,
       "lots": 2,
-      "last_close": 71.1,
-      "add_on": 68.0,
+      "last_close": 78.2,
+      "add_on": 69.6,
       "stop_loss": null,
-      "tp_short": 74.3,
-      "tp_mid": 80.0,
+      "tp_short": null,
+      "tp_mid": null,
       "verdict": "持有觀望",
-      "reason": "趨勢延伸獲利+14.5%，短線超買，等65~68回測"
+      "reason": "漲停+縮量續抱，籌碼安定，惟乖離MA20已近49%須防獲利了結"
     },
     {
       "code": "7610",
       "name": "聯友金屬-創",
       "avg_cost": 1375.0,
       "lots": 35,
-      "last_close": 2230.0,
-      "add_on": null,
-      "stop_loss": 2025.0,
-      "tp_short": 2440.0,
-      "tp_mid": 2545.0,
+      "last_close": 2430.0,
+      "add_on": 2025.0,
+      "stop_loss": null,
+      "tp_short": 2450.0,
+      "tp_mid": null,
       "verdict": "持有觀望",
-      "reason": "獲利+62%，纏論轉弱MACD綠柱，設停利2025"
+      "reason": "鎢價供需失衡題材仍在，惟纏論MACD轉弱、量小籌碼薄"
     }
   ]
 }
