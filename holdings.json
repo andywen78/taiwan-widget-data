@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T20:08:26+08:00",
+  "generated_at": "2026-07-08T20:00:00+08:00",
   "source": "taiwan-stock",
   "holdings": [
     {
@@ -7,78 +7,78 @@
       "name": "國巨",
       "avg_cost": 1053.85,
       "lots": 0.065,
-      "last_close": 1045.0,
-      "add_on": 1000.0,
-      "stop_loss": 979.0,
-      "tp_short": 1120.0,
-      "tp_mid": 1220.0,
-      "verdict": "觀望",
-      "reason": "高檔動能轉弱且纏論偏弱，AI需求動能仍在，等回測支撐979元再進場"
+      "last_close": 891.0,
+      "add_on": 880.0,
+      "stop_loss": 761.0,
+      "tp_short": 1005.0,
+      "tp_mid": 1125.0,
+      "verdict": "持有觀望",
+      "reason": "跌破月線連日放量下殺，惟外資連3日承接、AI需求仍強，防守761"
     },
     {
       "code": "6990",
       "name": "華鉬",
       "avg_cost": 194.88,
       "lots": 0.506,
-      "last_close": 162.0,
+      "last_close": 143.59,
       "add_on": null,
-      "stop_loss": 154.0,
-      "tp_short": 170.0,
+      "stop_loss": 138.0,
+      "tp_short": 160.0,
       "tp_mid": null,
       "verdict": "觀望",
-      "reason": "今日反彈+5.1%但均價仍套牢約17%，興櫃流動性風險高，靜待基本面確認"
+      "reason": "興櫃均價連日走低帳面約-26%，反彈160先減碼，跌破138考慮認賠"
     },
     {
       "code": "2303",
       "name": "聯電",
       "avg_cost": 179.75,
       "lots": 2,
-      "last_close": 170.5,
-      "add_on": 162.0,
-      "stop_loss": 158.0,
-      "tp_short": 174.0,
+      "last_close": 163.0,
+      "add_on": 156.0,
+      "stop_loss": null,
+      "tp_short": 171.5,
       "tp_mid": 185.5,
-      "verdict": "減碼",
-      "reason": "處置期波動風險高，乖離過大，纏論頂背馳示警，建議分批減碼待處置解除"
+      "verdict": "持有",
+      "reason": "除息2.61元首日強勢填息+6.96%，外資大買，處置期至7/15波動大"
     },
     {
       "code": "3481",
       "name": "群創",
       "avg_cost": 71.7,
       "lots": 3,
-      "last_close": 66.0,
-      "add_on": 64.0,
+      "last_close": 65.2,
+      "add_on": 63.0,
       "stop_loss": 64.0,
-      "tp_short": 72.5,
-      "tp_mid": 73.0,
-      "verdict": "觀望",
-      "reason": "外資轉賣加纏論頂背馳，惟基本面轉機仍在，拉回不破支撐再進場"
+      "tp_short": 69.2,
+      "tp_mid": 72.6,
+      "verdict": "持有觀望",
+      "reason": "高量後縮量止穩似洗盤，惟纏論頂背馳+外資5日賣超，跌破64減碼"
     },
     {
       "code": "5328",
       "name": "華容",
       "avg_cost": 62.1,
       "lots": 2,
-      "last_close": 82.4,
+      "last_close": 71.8,
       "add_on": null,
-      "stop_loss": 52.0,
-      "tp_short": 88.8,
-      "tp_mid": null,
-      "verdict": "部分停利",
-      "reason": "獲利已逾三成，倍量隔日縮量收長上影，建議分批獲利了結保留核心部位"
+      "stop_loss": 70.2,
+      "tp_short": 79.8,
+      "tp_mid": 88.8,
+      "verdict": "持有",
+      "reason": "高檔連3黑量縮健康換手，主力控盤沒衝高別賣，跌破70.2減碼一半"
     },
     {
       "code": "7610",
       "name": "聯友金屬-創",
       "avg_cost": 1375.0,
       "lots": 0.035,
-      "last_close": 2550.0,
+      "last_close": 2485.0,
       "add_on": null,
-      "stop_loss": 1220.0,
-      "tp_short": 2570.0,
+      "stop_loss": 2330.0,
+      "tp_short": 2590.0,
       "tp_mid": null,
-      "verdict": "部分停利",
-      "reason": "連4日大漲逾8成獲利，低量柱示警變盤前兆，建議逢高分批獲利了結"
+      "verdict": "持有",
+      "reason": "鎢價題材基本面最強帳面+80.7%，倍量易洗盤，跌破2330啟動移動停利"
     }
   ]
 }
