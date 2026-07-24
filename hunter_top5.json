@@ -1,64 +1,6 @@
 {
-  "generated_at": "2026-07-23T21:00:47+08:00",
+  "generated_at": "2026-07-24T21:00:46+08:00",
   "source": "launch-hunter",
-  "signal_date": "2026-07-23",
-  "top5": [
-    {
-      "rank": 1,
-      "code": "6505",
-      "name": "台塑化",
-      "close": 93.2,
-      "chg": 0.0952,
-      "vr20": 2.22,
-      "chg60": 0.7992,
-      "pct_b": 1.039,
-      "score_v2": 3.4,
-      "ma60": 57.39,
-      "stop_15pct": 79.22,
-      "lock_30": 121.16,
-      "lock_75": 163.1,
-      "lock_170": 251.64,
-      "gap_threshold_pct": 2.5,
-      "gap_trigger_price": 95.53,
-      "risk_tag": "中性"
-    },
-    {
-      "rank": 2,
-      "code": "8039",
-      "name": "台虹",
-      "close": 256.0,
-      "chg": 0.0987,
-      "vr20": 2.61,
-      "chg60": 0.8686,
-      "pct_b": 1.134,
-      "score_v2": 1.7,
-      "ma60": 152.06,
-      "stop_15pct": 217.6,
-      "lock_30": 332.8,
-      "lock_75": 448.0,
-      "lock_170": 691.2,
-      "gap_threshold_pct": 1.5,
-      "gap_trigger_price": 259.84,
-      "risk_tag": "短期過熱"
-    },
-    {
-      "rank": 3,
-      "code": "6166",
-      "name": "凌華",
-      "close": 159.5,
-      "chg": 0.1,
-      "vr20": 4.09,
-      "chg60": 1.1496,
-      "pct_b": 1.193,
-      "score_v2": 0.28,
-      "ma60": 124.27,
-      "stop_15pct": 135.57,
-      "lock_30": 207.35,
-      "lock_75": 279.12,
-      "lock_170": 430.65,
-      "gap_threshold_pct": 1.5,
-      "gap_trigger_price": 161.89,
-      "risk_tag": "過熱避開"
-    }
-  ]
+  "signal_date": "2026-07-24",
+  "top5": []
 }
