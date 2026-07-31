@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-07-30T21:00:44+08:00",
+  "generated_at": "2026-07-31T21:00:58+08:00",
   "source": "launch-hunter",
-  "signal_date": "2026-07-30",
-  "top5": []
+  "signal_date": "2026-07-31",
+  "top5": [
+    {
+      "rank": 1,
+      "code": "3441",
+      "name": "聯一光",
+      "close": 84.0,
+      "chg": 0.0995,
+      "vr20": 1.72,
+      "chg60": 1.1106,
+      "pct_b": 0.986,
+      "score_v2": 3.65,
+      "ma60": 65.11,
+      "stop_15pct": 71.4,
+      "lock_30": 109.2,
+      "lock_75": 147.0,
+      "lock_170": 226.8,
+      "gap_threshold_pct": 2.0,
+      "gap_trigger_price": 85.68,
+      "risk_tag": "短期過熱"
+    }
+  ]
 }
