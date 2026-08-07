@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-08-06T21:00:56+08:00",
+  "generated_at": "2026-08-07T21:00:45+08:00",
   "source": "launch-hunter",
-  "signal_date": "2026-08-06",
-  "top5": []
+  "signal_date": "2026-08-07",
+  "top5": [
+    {
+      "rank": 1,
+      "code": "2425",
+      "name": "承啟",
+      "close": 52.9,
+      "chg": 0.0987,
+      "vr20": 2.49,
+      "chg60": 0.5744,
+      "pct_b": 1.113,
+      "score_v2": 2.14,
+      "ma60": 40.18,
+      "stop_15pct": 44.96,
+      "lock_30": 68.77,
+      "lock_75": 92.58,
+      "lock_170": 142.83,
+      "gap_threshold_pct": 4.0,
+      "gap_trigger_price": 55.02,
+      "risk_tag": "中性"
+    }
+  ]
 }
