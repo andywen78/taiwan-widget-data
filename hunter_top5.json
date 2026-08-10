@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-08-07T21:00:45+08:00",
+  "generated_at": "2026-08-10T21:01:02+08:00",
   "source": "launch-hunter",
-  "signal_date": "2026-08-07",
+  "signal_date": "2026-08-10",
   "top5": [
     {
       "rank": 1,
-      "code": "2425",
-      "name": "承啟",
-      "close": 52.9,
-      "chg": 0.0987,
-      "vr20": 2.49,
-      "chg60": 0.5744,
-      "pct_b": 1.113,
-      "score_v2": 2.14,
-      "ma60": 40.18,
-      "stop_15pct": 44.96,
-      "lock_30": 68.77,
-      "lock_75": 92.58,
-      "lock_170": 142.83,
-      "gap_threshold_pct": 4.0,
-      "gap_trigger_price": 55.02,
-      "risk_tag": "中性"
+      "code": "3022",
+      "name": "威強電",
+      "close": 113.0,
+      "chg": 0.0971,
+      "vr20": 2.62,
+      "chg60": 0.6569,
+      "pct_b": 1.2,
+      "score_v2": 0.0,
+      "ma60": 83.69,
+      "stop_15pct": 96.05,
+      "lock_30": 146.9,
+      "lock_75": 197.75,
+      "lock_170": 305.1,
+      "gap_threshold_pct": 2.0,
+      "gap_trigger_price": 115.26,
+      "risk_tag": "過熱避開"
     }
   ]
 }
