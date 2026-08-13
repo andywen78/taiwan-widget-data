@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-08-12T21:01:03+08:00",
+  "generated_at": "2026-08-13T21:00:59+08:00",
   "source": "launch-hunter",
-  "signal_date": "2026-08-12",
-  "top5": []
+  "signal_date": "2026-08-13",
+  "top5": [
+    {
+      "rank": 1,
+      "code": "1709",
+      "name": "和益",
+      "close": 30.65,
+      "chg": 0.0946,
+      "vr20": 5.3,
+      "chg60": 0.6795,
+      "pct_b": 1.05,
+      "score_v2": 7.51,
+      "ma60": 23.19,
+      "stop_15pct": 26.05,
+      "lock_30": 39.84,
+      "lock_75": 53.64,
+      "lock_170": 82.75,
+      "gap_threshold_pct": 4.5,
+      "gap_trigger_price": 32.03,
+      "risk_tag": "量爆突破"
+    }
+  ]
 }
