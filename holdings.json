@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T20:02:17+08:00",
+  "generated_at": "2026-08-17T20:02:35+08:00",
   "source": "taiwan-stock",
   "holdings": [
     {
@@ -7,13 +7,13 @@
       "name": "聯電",
       "avg_cost": 164.25,
       "lots": 4,
-      "last_close": 121.0,
-      "add_on": 119.0,
+      "last_close": 121.5,
+      "add_on": 118.0,
       "stop_loss": 116.0,
-      "tp_short": 126.0,
-      "tp_mid": 130.5,
+      "tp_short": 130.5,
+      "tp_mid": 145.0,
       "verdict": "持有觀望",
-      "reason": "倍量後縮量收黑、法人今日轉賣，先看117支撐；基本面H2漲價題材仍在"
+      "reason": "量縮止跌但未轉強，跌破 116 減碼"
     }
   ]
 }
