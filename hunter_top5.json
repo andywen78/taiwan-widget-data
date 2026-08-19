@@ -1,26 +1,6 @@
 {
-  "generated_at": "2026-08-18T21:01:03+08:00",
+  "generated_at": "2026-08-19T21:01:00+08:00",
   "source": "launch-hunter",
-  "signal_date": "2026-08-18",
-  "top5": [
-    {
-      "rank": 1,
-      "code": "2302",
-      "name": "麗正",
-      "close": 45.3,
-      "chg": 0.0486,
-      "vr20": 2.21,
-      "chg60": 0.6121,
-      "pct_b": 0.764,
-      "score_v2": 4.67,
-      "ma60": 41.69,
-      "stop_15pct": 38.5,
-      "lock_30": 58.89,
-      "lock_75": 79.27,
-      "lock_170": 122.31,
-      "gap_threshold_pct": 6.0,
-      "gap_trigger_price": 48.02,
-      "risk_tag": "最不過熱"
-    }
-  ]
+  "signal_date": "2026-08-19",
+  "top5": []
 }
