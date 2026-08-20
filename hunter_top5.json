@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-08-19T21:01:00+08:00",
+  "generated_at": "2026-08-20T21:01:24+08:00",
   "source": "launch-hunter",
-  "signal_date": "2026-08-19",
-  "top5": []
+  "signal_date": "2026-08-20",
+  "top5": [
+    {
+      "rank": 1,
+      "code": "1515",
+      "name": "力山",
+      "close": 34.5,
+      "chg": 0.0987,
+      "vr20": 2.11,
+      "chg60": 0.5165,
+      "pct_b": 0.929,
+      "score_v2": 5.64,
+      "ma60": 31.25,
+      "stop_15pct": 29.32,
+      "lock_30": 44.85,
+      "lock_75": 60.38,
+      "lock_170": 93.15,
+      "gap_threshold_pct": 5.0,
+      "gap_trigger_price": 36.23,
+      "risk_tag": "最不過熱"
+    }
+  ]
 }
