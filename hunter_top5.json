@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-09-02T21:01:16+08:00",
+  "generated_at": "2026-09-03T21:01:50+08:00",
   "source": "launch-hunter",
-  "signal_date": "2026-09-02",
+  "signal_date": "2026-09-03",
   "top5": [
     {
       "rank": 1,
-      "code": "3055",
-      "name": "蔚華科",
-      "close": 142.0,
-      "chg": 0.0965,
-      "vr20": 2.06,
-      "chg60": 0.5604,
-      "pct_b": 1.186,
-      "score_v2": 0.27,
-      "ma60": 121.61,
-      "stop_15pct": 120.7,
-      "lock_30": 184.6,
-      "lock_75": 248.5,
-      "lock_170": 383.4,
-      "gap_threshold_pct": 4.5,
-      "gap_trigger_price": 148.39,
-      "risk_tag": "過熱避開"
+      "code": "2221",
+      "name": "大甲",
+      "close": 91.5,
+      "chg": 0.0998,
+      "vr20": 4.03,
+      "chg60": 1.1083,
+      "pct_b": 1.041,
+      "score_v2": 6.41,
+      "ma60": 52.76,
+      "stop_15pct": 77.77,
+      "lock_30": 118.95,
+      "lock_75": 160.12,
+      "lock_170": 247.05,
+      "gap_threshold_pct": 1.5,
+      "gap_trigger_price": 92.87,
+      "risk_tag": "短期過熱"
     }
   ]
 }
