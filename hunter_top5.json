@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-09-07T21:01:10+08:00",
+  "generated_at": "2026-09-08T21:01:00+08:00",
   "source": "launch-hunter",
-  "signal_date": "2026-09-07",
-  "top5": []
+  "signal_date": "2026-09-08",
+  "top5": [
+    {
+      "rank": 1,
+      "code": "3055",
+      "name": "蔚華科",
+      "close": 146.0,
+      "chg": 0.0855,
+      "vr20": 2.8,
+      "chg60": 0.8273,
+      "pct_b": 1.054,
+      "score_v2": 3.49,
+      "ma60": 125.19,
+      "stop_15pct": 124.1,
+      "lock_30": 189.8,
+      "lock_75": 255.5,
+      "lock_170": 394.2,
+      "gap_threshold_pct": 5.0,
+      "gap_trigger_price": 153.3,
+      "risk_tag": "量爆突破"
+    },
+    {
+      "rank": 2,
+      "code": "6620",
+      "name": "漢達",
+      "close": 124.0,
+      "chg": 0.0973,
+      "vr20": 3.56,
+      "chg60": 0.8235,
+      "pct_b": 1.17,
+      "score_v2": 1.04,
+      "ma60": 88.53,
+      "stop_15pct": 105.4,
+      "lock_30": 161.2,
+      "lock_75": 217.0,
+      "lock_170": 334.8,
+      "gap_threshold_pct": 2.0,
+      "gap_trigger_price": 126.48,
+      "risk_tag": "短期過熱"
+    }
+  ]
 }
