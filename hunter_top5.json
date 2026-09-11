@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-09-10T21:01:00+08:00",
+  "generated_at": "2026-09-11T21:01:05+08:00",
   "source": "launch-hunter",
-  "signal_date": "2026-09-10",
-  "top5": []
+  "signal_date": "2026-09-11",
+  "top5": [
+    {
+      "rank": 1,
+      "code": "3229",
+      "name": "晟鈦",
+      "close": 67.5,
+      "chg": 0.0993,
+      "vr20": 2.93,
+      "chg60": 0.5289,
+      "pct_b": 1.124,
+      "score_v2": 2.2,
+      "ma60": 47.43,
+      "stop_15pct": 57.38,
+      "lock_30": 87.75,
+      "lock_75": 118.12,
+      "lock_170": 182.25,
+      "gap_threshold_pct": 2.0,
+      "gap_trigger_price": 68.85,
+      "risk_tag": "短期過熱"
+    }
+  ]
 }
