@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-09-15T21:01:14+08:00",
+  "generated_at": "2026-09-16T21:01:06+08:00",
   "source": "launch-hunter",
-  "signal_date": "2026-09-15",
-  "top5": []
+  "signal_date": "2026-09-16",
+  "top5": [
+    {
+      "rank": 1,
+      "code": "2221",
+      "name": "大甲",
+      "close": 105.5,
+      "chg": 0.0978,
+      "vr20": 2.25,
+      "chg60": 1.1227,
+      "pct_b": 0.947,
+      "score_v2": 5.58,
+      "ma60": 59.8,
+      "stop_15pct": 89.67,
+      "lock_30": 137.15,
+      "lock_75": 184.62,
+      "lock_170": 284.85,
+      "gap_threshold_pct": 1.5,
+      "gap_trigger_price": 107.08,
+      "risk_tag": "短期過熱"
+    }
+  ]
 }
