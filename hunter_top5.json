@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-07T21:01:52+08:00",
+  "generated_at": "2026-10-08T21:01:38+08:00",
   "source": "launch-hunter",
-  "signal_date": "2026-10-07",
+  "signal_date": "2026-10-08",
   "top5": [
     {
       "rank": 1,
-      "code": "2466",
-      "name": "冠西電",
-      "close": 180.5,
-      "chg": 0.0587,
-      "vr20": 4.59,
-      "chg60": 0.796,
-      "pct_b": 1.151,
-      "score_v2": 1.32,
-      "ma60": 106.96,
-      "stop_15pct": 153.42,
-      "lock_30": 234.65,
-      "lock_75": 315.88,
-      "lock_170": 487.35,
-      "gap_threshold_pct": 1.5,
-      "gap_trigger_price": 183.21,
-      "risk_tag": "短期過熱"
+      "code": "6152",
+      "name": "百一",
+      "close": 21.0,
+      "chg": 0.0606,
+      "vr20": 4.58,
+      "chg60": 0.6471,
+      "pct_b": 1.212,
+      "score_v2": 0.0,
+      "ma60": 14.12,
+      "stop_15pct": 17.85,
+      "lock_30": 27.3,
+      "lock_75": 36.75,
+      "lock_170": 56.7,
+      "gap_threshold_pct": 2.0,
+      "gap_trigger_price": 21.42,
+      "risk_tag": "過熱避開"
     }
   ]
 }
