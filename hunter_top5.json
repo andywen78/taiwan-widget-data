@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-11-06T21:01:24+08:00",
+  "generated_at": "2026-11-09T21:01:53+08:00",
   "source": "launch-hunter",
-  "signal_date": "2026-11-06",
-  "top5": []
+  "signal_date": "2026-11-09",
+  "top5": [
+    {
+      "rank": 1,
+      "code": "1416",
+      "name": "廣豐",
+      "close": 17.95,
+      "chg": 0.0979,
+      "vr20": 7.39,
+      "chg60": 0.6318,
+      "pct_b": 1.318,
+      "score_v2": 0.0,
+      "ma60": 12.29,
+      "stop_15pct": 15.26,
+      "lock_30": 23.34,
+      "lock_75": 31.41,
+      "lock_170": 48.47,
+      "gap_threshold_pct": 2.0,
+      "gap_trigger_price": 18.31,
+      "risk_tag": "過熱避開"
+    }
+  ]
 }
