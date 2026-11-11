@@ -1,6 +1,64 @@
 {
-  "generated_at": "2026-11-10T21:01:24+08:00",
+  "generated_at": "2026-11-11T21:01:38+08:00",
   "source": "launch-hunter",
-  "signal_date": "2026-11-10",
-  "top5": []
+  "signal_date": "2026-11-11",
+  "top5": [
+    {
+      "rank": 1,
+      "code": "6697",
+      "name": "東捷資訊",
+      "close": 68.5,
+      "chg": 0.0995,
+      "vr20": 2.84,
+      "chg60": 0.6667,
+      "pct_b": 1.005,
+      "score_v2": 5.5,
+      "ma60": 44.34,
+      "stop_15pct": 58.23,
+      "lock_30": 89.05,
+      "lock_75": 119.88,
+      "lock_170": 184.95,
+      "gap_threshold_pct": 4.5,
+      "gap_trigger_price": 71.58,
+      "risk_tag": "量爆突破"
+    },
+    {
+      "rank": 2,
+      "code": "5202",
+      "name": "力新",
+      "close": 21.1,
+      "chg": 0.099,
+      "vr20": 2.17,
+      "chg60": 0.7085,
+      "pct_b": 1.1,
+      "score_v2": 2.15,
+      "ma60": 13.95,
+      "stop_15pct": 17.94,
+      "lock_30": 27.43,
+      "lock_75": 36.93,
+      "lock_170": 56.97,
+      "gap_threshold_pct": 2.5,
+      "gap_trigger_price": 21.63,
+      "risk_tag": "中性"
+    },
+    {
+      "rank": 3,
+      "code": "1416",
+      "name": "廣豐",
+      "close": 20.15,
+      "chg": 0.0981,
+      "vr20": 4.85,
+      "chg60": 0.7675,
+      "pct_b": 1.202,
+      "score_v2": 0.0,
+      "ma60": 12.56,
+      "stop_15pct": 17.13,
+      "lock_30": 26.2,
+      "lock_75": 35.26,
+      "lock_170": 54.41,
+      "gap_threshold_pct": 1.5,
+      "gap_trigger_price": 20.45,
+      "risk_tag": "過熱避開"
+    }
+  ]
 }
