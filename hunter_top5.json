@@ -1,26 +1,6 @@
 {
-  "generated_at": "2026-11-16T21:01:34+08:00",
+  "generated_at": "2026-11-17T21:01:37+08:00",
   "source": "launch-hunter",
-  "signal_date": "2026-11-16",
-  "top5": [
-    {
-      "rank": 1,
-      "code": "2471",
-      "name": "資通",
-      "close": 78.2,
-      "chg": 0.0999,
-      "vr20": 3.82,
-      "chg60": 0.5687,
-      "pct_b": 1.266,
-      "score_v2": 0.0,
-      "ma60": 51.95,
-      "stop_15pct": 66.47,
-      "lock_30": 101.66,
-      "lock_75": 136.85,
-      "lock_170": 211.14,
-      "gap_threshold_pct": 1.5,
-      "gap_trigger_price": 79.37,
-      "risk_tag": "過熱避開"
-    }
-  ]
+  "signal_date": "2026-11-17",
+  "top5": []
 }
