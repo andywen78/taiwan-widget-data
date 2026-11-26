@@ -1,26 +1,6 @@
 {
-  "generated_at": "2026-11-25T21:01:18+08:00",
+  "generated_at": "2026-11-26T21:01:58+08:00",
   "source": "launch-hunter",
-  "signal_date": "2026-11-25",
-  "top5": [
-    {
-      "rank": 1,
-      "code": "6140",
-      "name": "訊達",
-      "close": 32.7,
-      "chg": 0.0992,
-      "vr20": 4.15,
-      "chg60": 0.8902,
-      "pct_b": 0.864,
-      "score_v2": 13.83,
-      "ma60": 21.96,
-      "stop_15pct": 27.8,
-      "lock_30": 42.51,
-      "lock_75": 57.23,
-      "lock_170": 88.29,
-      "gap_threshold_pct": 5.5,
-      "gap_trigger_price": 34.5,
-      "risk_tag": "最不過熱"
-    }
-  ]
+  "signal_date": "2026-11-26",
+  "top5": []
 }
